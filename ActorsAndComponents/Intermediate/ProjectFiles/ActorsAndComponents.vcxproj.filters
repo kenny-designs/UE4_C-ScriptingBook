@@ -100,9 +100,15 @@
     <ClInclude Include="..\..\Source\ActorsAndComponents\UE4CookbookGameModeBase.h">
       <Filter>Source\ActorsAndComponents</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\ActorsAndComponents\Warior.h">
+      <Filter>Source\ActorsAndComponents</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\ActorsAndComponents\UE4CookbookGameModeBase.cpp">
+      <Filter>Source\ActorsAndComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActorsAndComponents\Warior.cpp">
       <Filter>Source\ActorsAndComponents</Filter>
     </ClCompile>
   </ItemGroup>

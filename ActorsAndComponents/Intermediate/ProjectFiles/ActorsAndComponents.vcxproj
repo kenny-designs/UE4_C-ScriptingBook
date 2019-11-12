@@ -629,7 +629,9 @@
   </PropertyGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\ActorsAndComponents\UE4CookbookGameModeBase.cpp" />
+    <ClCompile Include="..\..\Source\ActorsAndComponents\Warior.cpp" />
     <ClInclude Include="..\..\Source\ActorsAndComponents\UE4CookbookGameModeBase.h" />
+    <ClInclude Include="..\..\Source\ActorsAndComponents\Warior.h" />
     <None Include="..\..\ActorsAndComponents.uproject" />
     <None Include="..\..\Source\ActorsAndComponents.Target.cs" />
     <None Include="..\..\Source\ActorsAndComponentsEditor.Target.cs" />

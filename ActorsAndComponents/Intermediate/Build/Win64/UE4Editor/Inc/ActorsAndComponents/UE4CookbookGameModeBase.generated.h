@@ -13,9 +13,29 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ACTORSANDCOMPONENTS_UE4CookbookGameModeBase_generated_h
 
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_RPC_WRAPPERS
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execDestroyActorFunction) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->DestroyActorFunction(); \
+		P_NATIVE_END; \
+	}
+
+
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execDestroyActorFunction) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->DestroyActorFunction(); \
+		P_NATIVE_END; \
+	}
+
+
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAUE4CookbookGameModeBase(); \
 	friend struct Z_Construct_UClass_AUE4CookbookGameModeBase_Statics; \
@@ -24,7 +44,7 @@ public: \
 	DECLARE_SERIALIZER(AUE4CookbookGameModeBase)
 
 
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_INCLASS \
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesAUE4CookbookGameModeBase(); \
 	friend struct Z_Construct_UClass_AUE4CookbookGameModeBase_Statics; \
@@ -33,7 +53,7 @@ public: \
 	DECLARE_SERIALIZER(AUE4CookbookGameModeBase)
 
 
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AUE4CookbookGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUE4CookbookGameModeBase) \
@@ -46,7 +66,7 @@ private: \
 public:
 
 
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AUE4CookbookGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -59,26 +79,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUE4CookbookGameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUE4CookbookGameModeBase)
 
 
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_12_PROLOG
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_PRIVATE_PROPERTY_OFFSET
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_13_PROLOG
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_RPC_WRAPPERS \
-	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_INCLASS \
-	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_PRIVATE_PROPERTY_OFFSET \
+	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_RPC_WRAPPERS \
+	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_INCLASS \
+	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_GENERATED_BODY \
+#define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_PRIVATE_PROPERTY_OFFSET \
+	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_INCLASS_NO_PURE_DECLS \
+	ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

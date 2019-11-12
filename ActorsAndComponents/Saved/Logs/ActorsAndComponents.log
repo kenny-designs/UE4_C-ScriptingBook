@@ -1055,3 +1055,297 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.12-02.19.04:050][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.11.12-02.19.04:056][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
 [2019.11.12-02.19.04:094][249]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.12-02.19.27:940][ 47]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.11.12-02.19.27:961][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:961][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:961][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:962][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:962][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:962][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:962][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:962][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:963][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:963][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:963][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:963][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:963][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:964][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:964][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:964][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:964][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:964][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:965][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:965][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:965][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:965][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:965][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:966][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:966][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:966][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:966][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:966][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:966][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:967][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:967][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:967][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:967][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:967][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:968][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:968][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:968][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:968][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:968][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:969][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:969][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:969][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:969][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:969][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:970][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:970][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:970][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:970][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:970][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:971][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:971][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:971][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:971][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:971][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:972][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.27:972][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:023][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:029][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:029][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:036][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:036][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:037][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:037][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:037][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:038][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:038][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:038][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:061][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:062][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:062][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:062][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:062][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:062][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:063][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:063][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:063][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:063][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:063][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:064][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:064][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:064][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:064][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:064][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:064][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:065][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:065][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:065][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:065][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:065][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:065][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:066][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:066][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:066][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:066][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:066][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:067][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:067][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:067][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:067][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:067][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:067][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:068][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:068][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:068][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:068][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:068][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:069][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:069][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:069][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:069][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:069][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:069][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:070][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:070][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:070][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:070][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:070][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:071][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:071][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:071][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:071][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:071][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:072][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:075][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:079][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:080][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:086][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:087][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:087][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:087][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:087][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:088][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:088][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:088][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:114][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:114][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:115][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:115][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:115][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:115][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:116][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:116][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:116][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:117][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:117][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:117][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:117][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:118][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:118][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:118][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:118][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:119][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:119][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:119][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:119][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:120][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:120][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:120][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:120][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:120][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:121][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:121][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:121][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:121][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:121][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:122][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:122][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:122][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:122][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:122][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:122][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:123][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:123][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:123][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:123][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:123][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:123][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:124][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:124][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:124][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:124][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:124][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:124][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:125][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:125][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:125][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:125][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:125][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:125][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:126][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:129][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:133][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:134][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:141][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:141][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:142][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:142][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:142][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:142][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:142][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.19.28:142][ 47]LogVSAccessor: Warning: Couldn't access module table
+[2019.11.12-02.20.41:921][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.20.46:447][678]LogAssetEditorManager: Opening Asset editor for Class /Script/ActorsAndComponents.UE4CookbookGameModeBase
+[2019.11.12-02.28.14:868][ 53]Candidate modules for hot reload:
+[2019.11.12-02.28.14:868][ 53]  ActorsAndComponents
+[2019.11.12-02.28.14:868][ 53]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,4293 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.12-02.28.14:869][ 53]Warning: Starting HotReload took  0.0s.
+[2019.11.12-02.28.23:990][590]CompilerResultsLog: New page: Compilation - Nov 11, 2019, 4:28:23 PM
+[2019.11.12-02.28.23:991][590]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.12-02.28.23:991][590]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.12-02.28.23:991][590]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.12-02.28.23:992][590]CompilerResultsLog: Error: C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Source/ActorsAndComponents/UE4CookbookGameModeBase.h(25)  : Error: Unrecognized type 'void' - type must be a UCLASS, USTRUCT or UENUM
+[2019.11.12-02.28.23:992][590]LogMainFrame: MainFrame: Module compiling took 9.126 seconds
+[2019.11.12-02.28.23:993][590]Warning: HotReload failed, recompile failed
+[2019.11.12-02.28.31:707][ 51]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.28.31:710][ 51]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.29.15:092][345]Candidate modules for hot reload:
+[2019.11.12-02.29.15:093][345]  ActorsAndComponents
+[2019.11.12-02.29.15:093][345]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,9676 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.12-02.29.15:094][345]Warning: Starting HotReload took  0.0s.
+[2019.11.12-02.29.27:331][ 69]CompilerResultsLog: New page: Compilation - Nov 11, 2019, 4:29:27 PM
+[2019.11.12-02.29.27:332][ 69]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.12-02.29.27:332][ 69]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.12-02.29.27:332][ 69]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.12-02.29.27:333][ 69]CompilerResultsLog: Reflection code generated for ActorsAndComponentsEditor in 9.8503457 seconds
+[2019.11.12-02.29.27:333][ 69]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.12-02.29.27:334][ 69]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.11.12-02.29.27:335][ 69]CompilerResultsLog:   [1/4] UE4CookbookGameModeBase.cpp
+[2019.11.12-02.29.27:335][ 69]CompilerResultsLog:    C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\UE4CookbookGameModeBase.cpp(21) : error C2039: 'SetTime': is not a member of 'FTimerManager'
+[2019.11.12-02.29.27:336][ 69]CompilerResultsLog:   C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Public\TimerManager.h(161): note: see declaration of 'FTimerManager'
+[2019.11.12-02.29.27:336][ 69]LogMainFrame: MainFrame: Module compiling took 12.246 seconds
+[2019.11.12-02.29.27:336][ 69]Warning: HotReload failed, recompile failed
+[2019.11.12-02.29.28:725][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.12-02.29.33:731][451]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.29.33:734][451]LogSlate: Window 'Message Log' being destroyed
+[2019.11.12-02.29.48:574][843]Candidate modules for hot reload:
+[2019.11.12-02.29.48:575][843]  ActorsAndComponents
+[2019.11.12-02.29.48:575][843]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,4377 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.12-02.29.48:576][843]Warning: Starting HotReload took  0.0s.
+[2019.11.12-02.30.08:582][ 31]CompilerResultsLog: New page: Compilation - Nov 11, 2019, 4:30:08 PM
+[2019.11.12-02.30.08:583][ 31]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.12-02.30.08:583][ 31]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.12-02.30.08:583][ 31]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.12-02.30.08:584][ 31]CompilerResultsLog: Reflection code generated for ActorsAndComponentsEditor in 8.8213671 seconds
+[2019.11.12-02.30.08:584][ 31]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.12-02.30.08:585][ 31]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.11.12-02.30.08:585][ 31]CompilerResultsLog:   [1/4] UE4CookbookGameModeBase.cpp
+[2019.11.12-02.30.08:585][ 31]CompilerResultsLog:   [2/4] UE4Editor-ActorsAndComponents-4377.lib
+[2019.11.12-02.30.08:585][ 31]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-4377.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-4377.exp
+[2019.11.12-02.30.08:586][ 31]CompilerResultsLog:   [3/4] UE4Editor-ActorsAndComponents-4377.dll
+[2019.11.12-02.30.08:586][ 31]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-4377.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-4377.suppressed.exp
+[2019.11.12-02.30.08:587][ 31]CompilerResultsLog:   [4/4] ActorsAndComponentsEditor.target
+[2019.11.12-02.30.08:587][ 31]CompilerResultsLog: Total time in Parallel executor: 9.63 seconds
+[2019.11.12-02.30.08:587][ 31]CompilerResultsLog: Total execution time: 19.92 seconds
+[2019.11.12-02.30.08:587][ 31]LogMainFrame: MainFrame: Module compiling took 20.014 seconds
+[2019.11.12-02.30.08:635][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.12-02.30.08:647][ 31]LogClass: Could not find existing class UE4CookbookGameModeBase in package /Script/ActorsAndComponents for HotReload, assuming new class
+[2019.11.12-02.30.08:648][ 31]LogClass: Function DestroyActorFunction is new.
+[2019.11.12-02.30.08:661][ 31]LogHotReload: Re-instancing UE4CookbookGameModeBase after hot-reload.
+[2019.11.12-02.30.08:825][ 31]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.11.12-02.30.08:830][ 31]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2019.11.12-02.30.08:939][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.11.12-02.30.08:963][ 31]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2868 classes and 684 folders.
+[2019.11.12-02.30.08:963][ 31]Display: HotReload took 20.4s.
+[2019.11.12-02.30.11:876][186]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.12-02.30.11:887][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.12-02.30.11:888][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.12-02.30.11:888][186]PIE: New page: PIE session: MyLevel (Nov 11, 2019, 4:30:11 PM)
+[2019.11.12-02.30.11:888][186]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.12-02.30.11:891][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002965s)
+[2019.11.12-02.30.11:894][186]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.12-02.30.11:894][186]LogPlayLevel: PIE: World Init took: (0.002964s)
+[2019.11.12-02.30.11:894][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.006375s)
+[2019.11.12-02.30.11:977][186]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2019.11.12-02.30.11:988][186]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.12-02.30.11:999][186]LogInit: FAudioDevice initialized.
+[2019.11.12-02.30.12:004][186]LogLoad: Game class is 'UE4CookbookGameModeBase'
+[2019.11.12-02.30.12:006][186]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.11-21.30.12
+[2019.11.12-02.30.12:006][186]LogWorld: Bringing up level for play took: 0.001136
+[2019.11.12-02.30.12:006][186]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.12-02.30.12:010][186]LogBlueprintUserMessages: [MyLevel_C_10] An instance of AWarrior: Kenny
+[2019.11.12-02.30.12:010][186]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel 0.776
+[2019.11.12-02.30.12:010][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.12-02.30.27:930][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.12-02.30.27:930][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.30.27:931][140]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.12-02.30.27:931][140]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.12-02.30.27:944][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.12-02.30.27:945][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.12-02.30.27:995][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.12-02.30.28:006][140]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2019.11.12-02.30.28:042][142]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.12-02.30.46:262][235]LogSlate: FSceneViewport::OnFocusLost() reason 0

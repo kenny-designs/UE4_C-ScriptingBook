@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
+#include "MyFirstActor.h"
 #include "UE4CookbookGameModeBase.generated.h"
 
 /**
@@ -16,4 +17,10 @@ class ACTORSANDCOMPONENTS_API AUE4CookbookGameModeBase : public AGameModeBase
 
 public:
 	virtual void BeginPlay() override;
+
+	UPROPERTY()
+	AMyFirstActor* SpawnedActor;
+
+	UFUNCTION()
+	void DestroyActorFunction();
 };

@@ -1,0 +1,5 @@
+C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Intermediate\Build\Win64\UE4Editor\Development\CreatingClasses\Definitions.CreatingClasses.h
+C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Source\CreatingClasses/ColoredTexture.h
+C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Intermediate\Build\Win64\UE4Editor\Inc\CreatingClasses\ColoredTexture.generated.h

@@ -1,0 +1,13 @@
+﻿  Parsing headers for FirstLevelEditor
+    Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\FirstLevel.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\FirstLevelEditor\Development\FirstLevelEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for FirstLevelEditor in 9.0039661 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] FirstLevelGameModeBase.cpp
+    [2/4] UE4Editor-FirstLevel-0003.lib
+       Creating library C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\UE4Editor-FirstLevel-0003.lib and object C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\UE4Editor-FirstLevel-0003.exp
+    [3/4] UE4Editor-FirstLevel-0003.dll
+       Creating library C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\UE4Editor-FirstLevel-0003.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\UE4Editor-FirstLevel-0003.suppressed.exp
+    [4/4] FirstLevelEditor.target
+  Total time in Parallel executor: 1.87 seconds
+  Total execution time: 11.82 seconds

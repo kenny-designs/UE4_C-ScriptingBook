@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CreatingClasses.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{76374020-4E9C-4258-A007-A348462F94C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CreatingClasses.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CreatingClassesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{97172A69-8449-459F-A4A2-5E1C2079B423}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{DCB50C3D-A83A-4A0A-B1B7-63417CAB7AD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{E1037364-B63F-4638-941B-B8044F021EBD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{0AB98D4B-410D-4D40-8705-A608E7FACBF2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{734A03CD-91C3-4197-A222-761F76B3FCF1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{0EA31149-19CC-4954-85F4-BC5C41B92F9C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{9340190C-BB5E-4D66-B86F-C46D36CDFBE3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{0A05F30D-89E0-4371-97DD-11B3EC23E2C1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{AC29AD49-DF19-4201-B10D-DC8EBD2B9451}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\CreatingClasses">
+      <UniqueIdentifier>{48385C8A-06F6-4468-9762-D04C094E9E81}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CreatingClasses\ColoredTexture.h">
+      <Filter>Source\CreatingClasses</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CreatingClasses\CreatingClasses.Build.cs">
+      <Filter>Source\CreatingClasses</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CreatingClasses\CreatingClasses.cpp">
+      <Filter>Source\CreatingClasses</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CreatingClasses\CreatingClasses.h">
+      <Filter>Source\CreatingClasses</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CreatingClasses\CreatingClassesGameModeBase.cpp">
+      <Filter>Source\CreatingClasses</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CreatingClasses\CreatingClassesGameModeBase.h">
+      <Filter>Source\CreatingClasses</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CreatingClasses\UserProfile.cpp">
+      <Filter>Source\CreatingClasses</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CreatingClasses\UserProfile.h">
+      <Filter>Source\CreatingClasses</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CreatingClasses\EnumName.h">
+      <Filter>Source\CreatingClasses</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

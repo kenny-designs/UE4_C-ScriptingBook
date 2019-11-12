@@ -1,0 +1,3 @@
+C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Source\CreatingClasses\CreatingClasses.Build.cs
+C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Source\CreatingClasses.Target.cs
+C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Source\CreatingClassesEditor.Target.cs

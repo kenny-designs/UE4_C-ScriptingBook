@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FirstLevel-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\FirstLevelEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\FirstLevel.cpp.obj"
+"C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\FirstLevelGameModeBase.cpp.obj"
+"C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\FirstLevel.init.gen.cpp.obj"
+"C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\FirstLevelGameModeBase.gen.cpp.obj"
+"C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\Default.rc2.res"
+/OUT:"C:\UnrealGames\UE4_C++ScriptingBook\FirstLevel\Intermediate\Build\Win64\UE4Editor\Development\FirstLevel\UE4Editor-FirstLevel-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_FirstLevel

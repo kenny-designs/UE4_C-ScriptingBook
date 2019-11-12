@@ -1,0 +1,16 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+  Creating makefile for CreatingClassesEditor (game project files are newer)
+  Parsing headers for CreatingClassesEditor
+    Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\CreatingClasses.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Intermediate\Build\Win64\CreatingClassesEditor\Development\CreatingClassesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for CreatingClassesEditor in 6.7636057 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 8 processes...
+    [1/5] CreatingClasses.init.gen.cpp
+    [2/5] EnumName.gen.cpp
+    [3/5] UE4Editor-CreatingClasses-0015.lib
+       Creating library C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Intermediate\Build\Win64\UE4Editor\Development\CreatingClasses\UE4Editor-CreatingClasses-0015.lib and object C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Intermediate\Build\Win64\UE4Editor\Development\CreatingClasses\UE4Editor-CreatingClasses-0015.exp
+    [4/5] UE4Editor-CreatingClasses-0015.dll
+       Creating library C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Intermediate\Build\Win64\UE4Editor\Development\CreatingClasses\UE4Editor-CreatingClasses-0015.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Intermediate\Build\Win64\UE4Editor\Development\CreatingClasses\UE4Editor-CreatingClasses-0015.suppressed.exp
+    [5/5] CreatingClassesEditor.target
+  Total time in Parallel executor: 2.86 seconds
+  Total execution time: 11.68 seconds

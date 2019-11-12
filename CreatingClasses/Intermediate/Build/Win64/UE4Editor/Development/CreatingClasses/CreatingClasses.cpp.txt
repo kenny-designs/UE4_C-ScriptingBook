@@ -1,0 +1,2 @@
+C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Intermediate\Build\Win64\UE4Editor\Development\CreatingClasses\Definitions.CreatingClasses.h
+C:\UnrealGames\UE4_C++ScriptingBook\CreatingClasses\Source\CreatingClasses\CreatingClasses.h

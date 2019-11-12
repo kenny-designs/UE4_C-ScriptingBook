@@ -1,0 +1,13 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+  Parsing headers for ActorsAndComponentsEditor
+    Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ActorsAndComponentsEditor in 7.2282058 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] UE4Editor-ActorsAndComponents-0004.lib
+       Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0004.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0004.exp
+    [2/3] UE4Editor-ActorsAndComponents-0004.dll
+       Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0004.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0004.suppressed.exp
+    [3/3] ActorsAndComponentsEditor.target
+  Total time in Parallel executor: 1.06 seconds
+  Total execution time: 9.42 seconds

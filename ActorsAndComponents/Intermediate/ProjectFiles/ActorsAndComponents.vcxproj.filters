@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ActorsAndComponents.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E900D36F-36B2-4758-851B-B596E8866B54}</UniqueIdentifier>
+      <UniqueIdentifier>{B8465FFC-DF23-4C2D-83C4-364FEBD87C20}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ActorsAndComponents.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{177A56C9-D9DC-44B8-B0B3-A4CB3E2FEC11}</UniqueIdentifier>
+      <UniqueIdentifier>{B9700A1A-5426-4A0E-A4C3-8DE185C9F0AB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,55 +24,55 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{3AA2DEE8-0FAC-4E70-A077-A7180CD2C40D}</UniqueIdentifier>
+      <UniqueIdentifier>{7B2162B7-461C-4132-8128-483B3F1A8FBA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{04BC89EC-5F2A-435D-9384-84C188437751}</UniqueIdentifier>
+      <UniqueIdentifier>{57BE9073-513F-4984-A2D2-BF1B71F614D1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{47A35573-C0E3-4A79-A734-530596148AE0}</UniqueIdentifier>
+      <UniqueIdentifier>{37302831-D01E-4EAD-8CEB-0CA6BD89E09D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{FA705070-A44E-4BBD-99D2-64FB29D6D1E5}</UniqueIdentifier>
+      <UniqueIdentifier>{A3AC7FF1-3298-407F-89F9-9FF2237EA481}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{5A2B7F52-3546-4552-9775-AC4E7D6DB861}</UniqueIdentifier>
+      <UniqueIdentifier>{C5891B2B-E0C2-4E8D-9AEB-C30AE81ADAE4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{C7598CF0-E30E-49E6-B75B-6EBD5554C959}</UniqueIdentifier>
+      <UniqueIdentifier>{156407A3-ED8E-48D5-8107-E67DBBA6065F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{39DC0284-83FC-4AE4-8DB2-03ACE3D47132}</UniqueIdentifier>
+      <UniqueIdentifier>{92366083-2026-46DE-BF70-E02EB5AAEEF5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{1C5ED147-256D-47D2-AC6C-6381F80A6FF5}</UniqueIdentifier>
+      <UniqueIdentifier>{151B52D9-B583-4BC6-B79C-C1BEC42D0578}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\ActorsAndComponents">
-      <UniqueIdentifier>{0FEA8352-A2E4-4C99-8231-BEFDA4A84A7F}</UniqueIdentifier>
+      <UniqueIdentifier>{7263FC1D-EE0C-4EFA-82DF-46D9D3E3585F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ActorsAndComponents\ActorsAndComponents.Build.cs">
       <Filter>Source\ActorsAndComponents</Filter>
@@ -89,5 +89,21 @@
     <ClInclude Include="..\..\Source\ActorsAndComponents\ActorsAndComponentsGameModeBase.h">
       <Filter>Source\ActorsAndComponents</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ActorsAndComponents\MyFirstActor.cpp">
+      <Filter>Source\ActorsAndComponents</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ActorsAndComponents\MyFirstActor.h">
+      <Filter>Source\ActorsAndComponents</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\ActorsAndComponents\UE4CookbookGameModeBase.h">
+      <Filter>Source\ActorsAndComponents</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\ActorsAndComponents\UE4CookbookGameModeBase.cpp">
+      <Filter>Source\ActorsAndComponents</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

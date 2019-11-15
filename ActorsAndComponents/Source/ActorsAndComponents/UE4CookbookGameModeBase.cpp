@@ -17,10 +17,8 @@ void AUE4CookbookGameModeBase::BeginPlay()
 	SpawnedActor = GetWorld()->SpawnActor<AMyFirstActor>(AMyFirstActor::StaticClass(), SpawnLocation);
 
 	// Destroy our spawned actor after 10 seconds
-	/*
 	FTimerHandle Timer;
 	GetWorldTimerManager().SetTimer(Timer, this, &AUE4CookbookGameModeBase::DestroyActorFunction, 10);
-	*/
 }
 
 void AUE4CookbookGameModeBase::DestroyActorFunction()

@@ -660,3 +660,93 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.15-22.42.26:310][ 86]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel2CE027CD4EF2CDE5B6899CB420E03F04.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
 [2019.11.15-22.42.26:326][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
 [2019.11.15-22.42.26:335][ 86]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltDataD2E1060D461BAFCCE88A26BA1539070C.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.15-22.43.47:484][221]LogEditor: Attempting to add actor of class 'MyFirstActor' to level at -80.00,20.00,20.00
+[2019.11.15-22.43.47:485][221]LogActor: Warning: MyFirstActor /Game/Levels/MyLevel.MyLevel:PersistentLevel.MyFirstActor_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-22.43.48:069][254]LogEditor: Attempting to add actor of class 'MyFirstActor' to level at 60.00,110.00,20.00
+[2019.11.15-22.43.48:070][254]LogActor: Warning: MyFirstActor /Game/Levels/MyLevel.MyLevel:PersistentLevel.MyFirstActor_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-22.43.50:068][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-22.49.08:263][542]LogHotReload: New module detected: UE4Editor-ActorsAndComponents-0015.dll
+[2019.11.15-22.49.08:947][545]LogHotReload: Starting Hot-Reload from IDE
+[2019.11.15-22.49.09:021][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.15-22.49.09:030][545]LogLinker: Warning: Failed to load '/Engine/Content/BasicShapes/Cube': Can't find file.
+[2019.11.15-22.49.09:031][545]LogLinker: Warning: Failed to load '/Engine/Content/BasicShapes/Cube': Can't find file.
+[2019.11.15-22.49.09:031][545]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/Content/BasicShapes/Cube.Cube'
+[2019.11.15-22.49.09:031][545]Error: CDO Constructor (MyFirstActor): Failed to find StaticMesh '/Engine/Content/BasicShapes/Cube.Cube'
+
+[2019.11.15-22.49.09:032][545]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.11.15-22.49.09:032][545]Warning: Some classes could not be reloaded:
+Error: CDO Constructor (MyFirstActor): Failed to find StaticMesh '/Engine/Content/BasicShapes/Cube.Cube'
+
+
+[2019.11.15-22.49.09:035][545]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.11.15-22.49.09:098][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.11.15-22.49.09:112][545]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2868 classes and 684 folders.
+[2019.11.15-22.49.09:114][545]Display: HotReload took  0.2s.
+[2019.11.15-22.49.45:746][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.15-22.49.45:770][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.11.15-22.49.45:867][855]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel6C1D390340E3F0B8FA18DA98CEA20B12.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.15-22.49.45:884][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.15-22.49.45:893][855]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltDataB89EE5944B5B01C84DD36FBB9DC92F54.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.15-22.49.51:168][171]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.15-22.49.51:195][171]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.15-22.49.52:416][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-22.49.57:072][515]Cmd: DELETE
+[2019.11.15-22.49.57:072][515]Cmd: ACTOR DELETE
+[2019.11.15-22.49.57:074][515]LogEditorActor: Deleted Actor: MyFirstActor
+[2019.11.15-22.49.57:097][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.11.15-22.49.57:097][515]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.15-22.49.58:873][621]LogEditor: Attempting to add actor of class 'MyFirstActor' to level at -100.00,370.00,20.00
+[2019.11.15-22.49.58:874][621]Error: CDO Constructor (MyFirstActor): Failed to find StaticMesh '/Engine/Content/BasicShapes/Cube.Cube'
+
+[2019.11.15-22.49.58:874][621]LogActor: Warning: MyFirstActor /Game/Levels/MyLevel.MyLevel:PersistentLevel.MyFirstActor_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-22.49.59:201][639]LogEditor: Attempting to add actor of class 'MyFirstActor' to level at -10.00,260.00,20.00
+[2019.11.15-22.49.59:201][639]Error: CDO Constructor (MyFirstActor): Failed to find StaticMesh '/Engine/Content/BasicShapes/Cube.Cube'
+
+[2019.11.15-22.49.59:201][639]LogActor: Warning: MyFirstActor /Game/Levels/MyLevel.MyLevel:PersistentLevel.MyFirstActor_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-22.50.01:596][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-22.50.09:825][262]Cmd: DELETE
+[2019.11.15-22.50.09:825][262]Cmd: ACTOR DELETE
+[2019.11.15-22.50.09:827][262]LogEditorActor: Deleted Actor: MyFirstActor
+[2019.11.15-22.50.09:857][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.11.15-22.50.09:857][262]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.11.15-22.50.11:115][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-22.50.11:203][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.15-22.50.11:233][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.15-22.50.11:328][341]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevelBB87ECDE4C0A78D70D9243814F753520.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.15-22.50.11:344][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.15-22.50.11:351][341]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltDataB593DB744C58402AABCAC094533E148A.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.15-22.50.42:755][601]LogEditor: Attempting to add actor of class 'MyFirstActor' to level at -180.00,380.00,20.00
+[2019.11.15-22.50.42:756][601]Error: CDO Constructor (MyFirstActor): Failed to find StaticMesh '/Engine/Content/BasicShapes/Cube.Cube'
+
+[2019.11.15-22.50.42:756][601]LogActor: Warning: MyFirstActor /Game/Levels/MyLevel.MyLevel:PersistentLevel.MyFirstActor_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-22.50.43:042][618]LogEditor: Attempting to add actor of class 'MyFirstActor' to level at -90.00,230.00,20.00
+[2019.11.15-22.50.43:043][618]Error: CDO Constructor (MyFirstActor): Failed to find StaticMesh '/Engine/Content/BasicShapes/Cube.Cube'
+
+[2019.11.15-22.50.43:043][618]LogActor: Warning: MyFirstActor /Game/Levels/MyLevel.MyLevel:PersistentLevel.MyFirstActor_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-22.50.46:706][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-22.50.46:783][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.15-22.50.46:810][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.11.15-22.50.46:913][840]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevelDF33A1F34A1E08588C696A972260F92F.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.15-22.50.46:931][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.15-22.50.46:938][840]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltDataF9CBE5024F043E524EBB33B872B4BFE6.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.15-22.52.22:345][  8]LogAssetEditorManager: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2019.11.15-22.52.23:431][  8]LogRenderer: Reallocating scene render targets to support 1144x708 Format 10 NumSamples 1 (Frame:1).
+[2019.11.15-22.52.25:487][119]LogSlate: Window 'Cube' being destroyed
+[2019.11.15-22.52.30:611][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-22.52.30:706][430]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-22.52.47:174][553]LogHotReload: New module detected: UE4Editor-ActorsAndComponents-0016.dll
+[2019.11.15-22.52.47:864][556]LogHotReload: Starting Hot-Reload from IDE
+[2019.11.15-22.52.47:930][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.11.15-22.52.47:946][556]LogHotReload: Re-instancing MyFirstActor after hot-reload.
+[2019.11.15-22.52.47:947][556]LogActor: Warning: MyFirstActor /Game/Levels/MyLevel.MyLevel:PersistentLevel.MyFirstActor_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-22.52.48:057][556]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2019.11.15-22.52.48:060][556]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.11.15-22.52.48:125][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.15-22.52.48:140][556]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2868 classes and 684 folders.
+[2019.11.15-22.52.48:141][556]Display: HotReload took  0.3s.
+[2019.11.15-22.52.58:129][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-22.52.58:214][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.15-22.52.58:236][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.15-22.52.58:337][ 53]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel987CDC1B41C23A0A9D70F793A93171BB.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.15-22.52.58:355][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.15-22.52.58:363][ 53]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltData0B7653B24D45F0177578828D7840BD48.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'

@@ -11,6 +11,14 @@ AMyFirstActor::AMyFirstActor()
 
 	// Creates a StaticMeshComponent on this object and assign Mesh to it
 	Mesh = CreateDefaultSubobject<UStaticMeshComponent>("BaseMeshComponent");
+
+	auto MeshAsset = ConstructorHelpers::FObjectFinder<UStaticMesh>(TEXT("StaticMesh'/Engine/BasicShapes/Cube.Cube'"));
+
+	// Check if the MeshAsset is valid before setting it
+	if (MeshAsset.Object != nullptr)
+	{
+		Mesh->SetStaticMesh(MeshAsset.Object);
+	}
 }
 
 // Called when the game starts or when spawned

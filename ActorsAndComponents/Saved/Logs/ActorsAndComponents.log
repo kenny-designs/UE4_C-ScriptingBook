@@ -595,3 +595,628 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.15-23.36.14:605][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2019.11.15-23.36.17:739][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.15-23.36.25:556][687]LogEditorViewport: Clicking on Actor (LMB): HierarchyActor (HierarchyActor3)
+[2019.11.15-23.44.15:699][206]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={758C563D-439F-9FAA-610A-C6BA2C15BF83}
+[2019.11.15-23.44.46:287][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-23.44.47:504][850]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.15-23.45.10:756][227]Candidate modules for hot reload:
+[2019.11.15-23.45.10:756][227]  ActorsAndComponents
+[2019.11.15-23.45.10:756][227]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,373 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: New page: Compilation - Nov 15, 2019, 1:45:22 PM
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: Invalidating makefile for ActorsAndComponentsEditor (source file added)
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: Reflection code generated for ActorsAndComponentsEditor in 7.0779034 seconds
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:   [1/6] ActorsAndComponents.init.gen.cpp
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:   [2/6] RandomMovementComponent.cpp
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:   [3/6] RandomMovementComponent.gen.cpp
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:   [4/6] UE4Editor-ActorsAndComponents-0373.lib
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0373.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0373.exp
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:   [5/6] UE4Editor-ActorsAndComponents-0373.dll
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0373.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0373.suppressed.exp
+[2019.11.15-23.45.22:520][227]CompilerResultsLog:   [6/6] ActorsAndComponentsEditor.target
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: Total time in Parallel executor: 1.88 seconds
+[2019.11.15-23.45.22:520][227]CompilerResultsLog: Total execution time: 11.70 seconds
+[2019.11.15-23.45.22:520][227]LogMainFrame: MainFrame: Module compiling took 11.766 seconds
+[2019.11.15-23.45.22:553][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.15-23.45.22:570][227]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2870 classes and 684 folders.
+[2019.11.15-23.45.22:570][227]Display: HotReload took 11.8s.
+[2019.11.15-23.45.22:572][227]Warning: HotReload operation took 11.8s.
+[2019.11.15-23.45.22:912][227]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.11.15-23.45.22:924][227]LogHotReload: New module detected: UE4Editor-ActorsAndComponents-0373.dll
+[2019.11.15-23.45.22:956][228]LogHotReload: Starting Hot-Reload from IDE
+[2019.11.15-23.45.23:134][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.15-23.45.23:144][228]LogClass: Could not find existing class RandomMovementComponent in package /Script/ActorsAndComponents for HotReload, assuming new class
+[2019.11.15-23.45.23:155][228]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0006 seconds. Added 7 classes and 2 folders.
+[2019.11.15-23.45.23:159][228]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2019.11.15-23.45.23:249][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.11.15-23.45.23:273][228]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2871 classes and 684 folders.
+[2019.11.15-23.45.23:275][228]Display: HotReload took  0.3s.
+[2019.11.15-23.51.36:575][385]Candidate modules for hot reload:
+[2019.11.15-23.51.36:576][385]  ActorsAndComponents
+[2019.11.15-23.51.36:576][385]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,1200 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.15-23.51.36:576][385]Warning: Starting HotReload took  0.0s.
+[2019.11.15-23.51.47:594][ 29]CompilerResultsLog: New page: Compilation - Nov 15, 2019, 1:51:47 PM
+[2019.11.15-23.51.47:595][ 29]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.15-23.51.47:595][ 29]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.15-23.51.47:595][ 29]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.15-23.51.47:595][ 29]CompilerResultsLog: Reflection code generated for ActorsAndComponentsEditor in 7.503656 seconds
+[2019.11.15-23.51.47:595][ 29]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.15-23.51.47:595][ 29]CompilerResultsLog: Building 6 actions with 8 processes...
+[2019.11.15-23.51.47:595][ 29]CompilerResultsLog:   [1/6] ActorsAndComponents.init.gen.cpp
+[2019.11.15-23.51.47:595][ 29]CompilerResultsLog:   [2/6] RandomMovementComponent.cpp
+[2019.11.15-23.51.47:596][ 29]CompilerResultsLog:   [3/6] RandomMovementComponent.gen.cpp
+[2019.11.15-23.51.47:596][ 29]CompilerResultsLog:   [4/6] UE4Editor-ActorsAndComponents-1200.lib
+[2019.11.15-23.51.47:596][ 29]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-1200.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-1200.exp
+[2019.11.15-23.51.47:596][ 29]CompilerResultsLog:   [5/6] UE4Editor-ActorsAndComponents-1200.dll
+[2019.11.15-23.51.47:596][ 29]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-1200.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-1200.suppressed.exp
+[2019.11.15-23.51.47:596][ 29]CompilerResultsLog:   [6/6] ActorsAndComponentsEditor.target
+[2019.11.15-23.51.47:596][ 29]CompilerResultsLog: Total time in Parallel executor: 2.06 seconds
+[2019.11.15-23.51.47:596][ 29]CompilerResultsLog: Total execution time: 10.94 seconds
+[2019.11.15-23.51.47:596][ 29]LogMainFrame: MainFrame: Module compiling took 11.021 seconds
+[2019.11.15-23.51.47:626][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.11.15-23.51.47:634][ 29]LogClass: Could not find existing class RandomMovementComponent in package /Script/ActorsAndComponents for HotReload, assuming new class
+[2019.11.15-23.51.47:641][ 29]LogHotReload: Re-instancing RandomMovementComponent after hot-reload.
+[2019.11.15-23.51.47:729][ 29]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2019.11.15-23.51.47:731][ 29]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2019.11.15-23.51.47:790][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.11.15-23.51.47:804][ 29]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2871 classes and 684 folders.
+[2019.11.15-23.51.47:804][ 29]Display: HotReload took 11.2s.
+[2019.11.15-23.52.08:607][275]LogActorFactory: Actor Factory created Cone
+[2019.11.15-23.52.09:497][326]LogActorFactory: Actor Factory created Cone
+[2019.11.15-23.52.13:081][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.15-23.52.28:749][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.15-23.52.31:828][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.15-23.52.36:713][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-23.52.36:804][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.15-23.52.36:833][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.11.15-23.52.36:931][497]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevelE3F86FD340BDDF0A4101CF9FCEA98CB5.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.15-23.52.36:950][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.15-23.52.36:969][497]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltData2F5B41554864434AE75C7C9ED5FC9E03.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.15-23.52.39:023][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-23.52.39:073][622]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.15-23.52.39:083][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.52.39:084][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.15-23.52.39:084][622]PIE: New page: PIE session: MyLevel (Nov 15, 2019, 1:52:39 PM)
+[2019.11.15-23.52.39:084][622]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.15-23.52.39:087][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002874s)
+[2019.11.15-23.52.39:088][622]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.15-23.52.39:088][622]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2019.11.15-23.52.39:088][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004497s)
+[2019.11.15-23.52.39:114][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.11.15-23.52.39:122][622]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.15-23.52.39:132][622]LogInit: FAudioDevice initialized.
+[2019.11.15-23.52.39:141][622]LogLoad: Game class is 'UE4CookbookGameModeBase'
+[2019.11.15-23.52.39:142][622]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.15-18.52.39
+[2019.11.15-23.52.39:142][622]LogWorld: Bringing up level for play took: 0.000700
+[2019.11.15-23.52.39:142][622]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.11.15-23.52.39:144][622]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-23.52.39:144][622]LogBlueprintUserMessages: [MyLevel_C_1] An instance of AWarrior: Kenny
+[2019.11.15-23.52.39:144][622]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.584
+[2019.11.15-23.52.39:144][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.52.39:184][622]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:215][623]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:231][624]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:248][625]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:265][626]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:281][627]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:298][628]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:315][629]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:331][630]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:348][631]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:365][632]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:381][633]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:398][634]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:415][635]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:431][636]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:448][637]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:464][638]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:481][639]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:498][640]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:514][641]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:531][642]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:548][643]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:564][644]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:581][645]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:598][646]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:614][647]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:632][648]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:648][649]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:664][650]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:681][651]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:698][652]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:714][653]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:731][654]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:748][655]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:764][656]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:781][657]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:798][658]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:816][659]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:833][660]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:849][661]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:866][662]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:882][663]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:899][664]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:915][665]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:932][666]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:948][667]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:965][668]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:982][669]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.39:999][670]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:016][671]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:032][672]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:049][673]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:066][674]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:082][675]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:099][676]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:115][677]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:132][678]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:148][679]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:165][680]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:182][681]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:199][682]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:216][683]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:232][684]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:249][685]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:266][686]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:283][687]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:299][688]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:316][689]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:333][690]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:349][691]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:366][692]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:382][693]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:399][694]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:415][695]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:432][696]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:448][697]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:465][698]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:481][699]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:498][700]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:515][701]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:531][702]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:548][703]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:565][704]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:581][705]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:598][706]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:615][707]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:631][708]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:648][709]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:665][710]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:681][711]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:698][712]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:715][713]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:731][714]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:748][715]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:765][716]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:781][717]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:798][718]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:815][719]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:831][720]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:848][721]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:865][722]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:881][723]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:898][724]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:915][725]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:931][726]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:948][727]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:965][728]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:981][729]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.40:998][730]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:015][731]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:031][732]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:048][733]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:064][734]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:081][735]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:098][736]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:114][737]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:131][738]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:148][739]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:165][740]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:181][741]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:198][742]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:214][743]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:232][744]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:249][745]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:266][746]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:282][747]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:299][748]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:315][749]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:332][750]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:349][751]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:365][752]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:382][753]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:399][754]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:415][755]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:432][756]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:449][757]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:466][758]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:482][759]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:499][760]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:515][761]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:532][762]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:548][763]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:565][764]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:582][765]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:598][766]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:615][767]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:632][768]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:648][769]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:665][770]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:682][771]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:698][772]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:715][773]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:732][774]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:748][775]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:765][776]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:782][777]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:799][778]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:815][779]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:832][780]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:848][781]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:865][782]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:882][783]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:898][784]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:915][785]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:932][786]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:948][787]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:965][788]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:982][789]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.41:998][790]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:015][791]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:032][792]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:048][793]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:065][794]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:081][795]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:098][796]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:115][797]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:131][798]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:148][799]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:165][800]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:181][801]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:198][802]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:215][803]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:231][804]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:248][805]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:265][806]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:281][807]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:298][808]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:314][809]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:331][810]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:348][811]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:365][812]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:382][813]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:399][814]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:415][815]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:432][816]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:449][817]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:465][818]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:481][819]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:499][820]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:515][821]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:532][822]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:548][823]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:565][824]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:582][825]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:598][826]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:615][827]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:631][828]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:648][829]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:665][830]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:682][831]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:699][832]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:715][833]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:732][834]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:749][835]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:766][836]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:782][837]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:799][838]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:815][839]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:832][840]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:849][841]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:865][842]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:882][843]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:898][844]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:915][845]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:932][846]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:949][847]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:965][848]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:982][849]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.42:998][850]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:015][851]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:032][852]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:048][853]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:065][854]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:082][855]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:098][856]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:115][857]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:132][858]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:148][859]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:165][860]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:182][861]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:198][862]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:215][863]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:231][864]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:248][865]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:265][866]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:282][867]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:298][868]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:315][869]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:332][870]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:348][871]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:365][872]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:381][873]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:398][874]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:415][875]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:431][876]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:448][877]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:465][878]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:481][879]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:498][880]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:515][881]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:531][882]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:548][883]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:565][884]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:581][885]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:598][886]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:615][887]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:631][888]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:648][889]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:665][890]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:681][891]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:698][892]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:715][893]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:731][894]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:748][895]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:764][896]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:781][897]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:798][898]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:814][899]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:831][900]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:848][901]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:864][902]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:881][903]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:898][904]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:914][905]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:931][906]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:948][907]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:964][908]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:981][909]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.43:998][910]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:014][911]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:031][912]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:048][913]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:064][914]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:082][915]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:099][916]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:115][917]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:132][918]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:149][919]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:165][920]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:182][921]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:199][922]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:215][923]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:232][924]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:249][925]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:265][926]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:282][927]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:298][928]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:315][929]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:332][930]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:348][931]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:365][932]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:382][933]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:399][934]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:415][935]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:432][936]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:448][937]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:465][938]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:482][939]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:498][940]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:515][941]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:532][942]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:548][943]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:565][944]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:582][945]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:599][946]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:615][947]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:632][948]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:648][949]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:665][950]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:682][951]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:698][952]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:715][953]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:732][954]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:748][955]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:765][956]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:782][957]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:798][958]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:815][959]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:832][960]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:848][961]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:865][962]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:882][963]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:898][964]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:915][965]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:932][966]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:948][967]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:965][968]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:982][969]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:999][970]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.52.44:999][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.52.45:000][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-23.52.45:000][970]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.15-23.52.45:000][970]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-23.52.45:007][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.15-23.52.45:007][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.52.45:036][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-23.52.45:039][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.11.15-23.52.45:045][970]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.15-23.52.45:110][972]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.15-23.52.46:794][ 60]LogSlate: Window 'Message Log' being destroyed
+[2019.11.15-23.52.46:797][ 60]LogSlate: Window 'Message Log' being destroyed
+[2019.11.15-23.52.48:428][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2019.11.15-23.53.02:711][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-23.54.15:194][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-23.54.15:278][590]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.15-23.54.15:286][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.54.15:286][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.15-23.54.15:286][590]PIE: New page: PIE session: MyLevel (Nov 15, 2019, 1:54:15 PM)
+[2019.11.15-23.54.15:287][590]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.15-23.54.15:291][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004030s)
+[2019.11.15-23.54.15:292][590]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.15-23.54.15:292][590]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2019.11.15-23.54.15:292][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.005629s)
+[2019.11.15-23.54.15:318][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.11.15-23.54.15:323][590]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.15-23.54.15:333][590]LogInit: FAudioDevice initialized.
+[2019.11.15-23.54.15:344][590]LogLoad: Game class is 'UE4CookbookGameModeBase'
+[2019.11.15-23.54.15:345][590]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.15-18.54.15
+[2019.11.15-23.54.15:345][590]LogWorld: Bringing up level for play took: 0.000885
+[2019.11.15-23.54.15:345][590]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.15-23.54.15:347][590]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-23.54.15:347][590]LogBlueprintUserMessages: [MyLevel_C_1] An instance of AWarrior: Kenny
+[2019.11.15-23.54.15:348][590]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.381
+[2019.11.15-23.54.15:348][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.54.15:348][590]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:378][591]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:395][592]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:412][593]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:428][594]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:445][595]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:462][596]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:478][597]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:495][598]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:511][599]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:528][600]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:545][601]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:562][602]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:578][603]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:595][604]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:612][605]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:628][606]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:645][607]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:661][608]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:678][609]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:695][610]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:711][611]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:728][612]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:745][613]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:762][614]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:779][615]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:796][616]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:812][617]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:829][618]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:845][619]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:862][620]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:879][621]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:896][622]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:912][623]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:929][624]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:946][625]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:962][626]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:979][627]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.15:995][628]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:012][629]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:029][630]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:045][631]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:062][632]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:079][633]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:095][634]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:112][635]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:129][636]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:145][637]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:162][638]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:179][639]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:195][640]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:212][641]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:229][642]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:245][643]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:262][644]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:279][645]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:295][646]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:312][647]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:328][648]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:345][649]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:362][650]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:378][651]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:395][652]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:412][653]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:428][654]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:445][655]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:462][656]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:478][657]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:495][658]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:512][659]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:528][660]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:545][661]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:562][662]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:578][663]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:595][664]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:612][665]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:628][666]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:645][667]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:662][668]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:678][669]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:695][670]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:712][671]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:728][672]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:745][673]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:762][674]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:778][675]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:795][676]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:812][677]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:828][678]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:845][679]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:862][680]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.Cone_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.11.15-23.54.16:862][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.54.16:863][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-23.54.16:863][680]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.15-23.54.16:863][680]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-23.54.16:871][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.15-23.54.16:871][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.54.16:897][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-23.54.16:900][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.15-23.54.16:905][680]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.15-23.54.16:966][682]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.15-23.54.20:196][863]LogSlate: Window 'Message Log' being destroyed
+[2019.11.15-23.54.20:199][863]LogSlate: Window 'Message Log' being destroyed
+[2019.11.15-23.54.23:332][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2019.11.15-23.54.26:875][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-23.54.37:961][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.15-23.54.37:984][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.15-23.54.38:100][920]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel068D5F49458543A06BF13582AFA27CD0.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.15-23.54.38:121][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.15-23.54.38:130][920]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltDataFE9C95494B0ED1C0ED09FD99C6C851A6.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.15-23.54.38:944][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.15-23.54.39:010][972]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.15-23.54.39:020][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.54.39:020][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.15-23.54.39:020][972]PIE: New page: PIE session: MyLevel (Nov 15, 2019, 1:54:39 PM)
+[2019.11.15-23.54.39:020][972]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.15-23.54.39:024][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003477s)
+[2019.11.15-23.54.39:025][972]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.15-23.54.39:026][972]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2019.11.15-23.54.39:026][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.005438s)
+[2019.11.15-23.54.39:054][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.15-23.54.39:062][972]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.15-23.54.39:071][972]LogInit: FAudioDevice initialized.
+[2019.11.15-23.54.39:077][972]LogLoad: Game class is 'UE4CookbookGameModeBase'
+[2019.11.15-23.54.39:078][972]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.15-18.54.39
+[2019.11.15-23.54.39:078][972]LogWorld: Bringing up level for play took: 0.000821
+[2019.11.15-23.54.39:079][972]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.11.15-23.54.39:081][972]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.15-23.54.39:081][972]LogBlueprintUserMessages: [MyLevel_C_2] An instance of AWarrior: Kenny
+[2019.11.15-23.54.39:081][972]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.648
+[2019.11.15-23.54.39:081][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.54.55:781][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.54.55:781][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-23.54.55:781][973]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.15-23.54.55:781][973]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.15-23.54.55:792][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.15-23.54.55:792][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.15-23.54.55:822][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.15-23.54.55:824][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.11.15-23.54.55:889][977]LogPlayLevel: Display: Destroying online subsystem :Context_8

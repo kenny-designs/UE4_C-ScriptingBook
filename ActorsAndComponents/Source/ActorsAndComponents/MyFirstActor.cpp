@@ -9,13 +9,14 @@ AMyFirstActor::AMyFirstActor()
  	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	// Creates a StaticMeshComponent on this object and assign Mesh to it
+	Mesh = CreateDefaultSubobject<UStaticMeshComponent>("BaseMeshComponent");
 }
 
 // Called when the game starts or when spawned
 void AMyFirstActor::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 // Called every frame

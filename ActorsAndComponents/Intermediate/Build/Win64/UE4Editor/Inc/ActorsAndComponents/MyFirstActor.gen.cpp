@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeMyFirstActor() {}
 	ACTORSANDCOMPONENTS_API UClass* Z_Construct_UClass_AMyFirstActor();
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
 	UPackage* Z_Construct_UPackage__Script_ActorsAndComponents();
+	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 // End Cross Module References
 	void AMyFirstActor::StaticRegisterNativesAMyFirstActor()
 	{
@@ -31,6 +32,11 @@ void EmptyLinkFunctionForGeneratedCodeMyFirstActor() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Mesh_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Mesh;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -44,6 +50,16 @@ void EmptyLinkFunctionForGeneratedCodeMyFirstActor() {}
 		{ "ModuleRelativePath", "MyFirstActor.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMyFirstActor_Statics::NewProp_Mesh_MetaData[] = {
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "MyFirstActor.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMyFirstActor_Statics::NewProp_Mesh = { "Mesh", nullptr, (EPropertyFlags)0x0010000000080008, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMyFirstActor, Mesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMyFirstActor_Statics::NewProp_Mesh_MetaData, ARRAY_COUNT(Z_Construct_UClass_AMyFirstActor_Statics::NewProp_Mesh_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMyFirstActor_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMyFirstActor_Statics::NewProp_Mesh,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMyFirstActor_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMyFirstActor>::IsAbstract,
 	};
@@ -53,11 +69,11 @@ void EmptyLinkFunctionForGeneratedCodeMyFirstActor() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		nullptr,
+		Z_Construct_UClass_AMyFirstActor_Statics::PropPointers,
 		nullptr,
 		ARRAY_COUNT(DependentSingletons),
 		0,
-		0,
+		ARRAY_COUNT(Z_Construct_UClass_AMyFirstActor_Statics::PropPointers),
 		0,
 		0x009000A0u,
 		METADATA_PARAMS(Z_Construct_UClass_AMyFirstActor_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_AMyFirstActor_Statics::Class_MetaDataParams))
@@ -71,7 +87,7 @@ void EmptyLinkFunctionForGeneratedCodeMyFirstActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMyFirstActor, 1801650464);
+	IMPLEMENT_CLASS(AMyFirstActor, 2151519991);
 	template<> ACTORSANDCOMPONENTS_API UClass* StaticClass<AMyFirstActor>()
 	{
 		return AMyFirstActor::StaticClass();

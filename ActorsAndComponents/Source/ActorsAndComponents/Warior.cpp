@@ -20,7 +20,9 @@ FString AWarior::ToString()
 void AWarior::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
+	// Will destroy this object in 10 seconds
+	SetLifeSpan(10);
 }
 
 // Called every frame

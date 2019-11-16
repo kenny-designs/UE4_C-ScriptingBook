@@ -49,6 +49,8 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 	PlayerInputComponent->BindAxis("Back", this, &AMyCharacter::Back);
 	PlayerInputComponent->BindAxis("Left", this, &AMyCharacter::Left);
 	PlayerInputComponent->BindAxis("Right", this, &AMyCharacter::Right);
+
+	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AMyCharacter::Jump);
 }
 
 void AMyCharacter::Forward(float amount)

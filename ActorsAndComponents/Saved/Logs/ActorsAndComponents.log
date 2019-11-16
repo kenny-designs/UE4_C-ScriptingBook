@@ -1511,3 +1511,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.16-01.54.23:491][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.11.16-01.54.23:540][820]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
 [2019.11.16-01.54.23:568][821]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.16-01.57.58:792][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-02.12.22:643][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.16-02.12.23:620][220]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.16-02.12.24:625][220]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.16-02.13.08:892][461]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.16-02.13.08:894][461]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.16-02.13.09:111][473]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.16-02.16.31:884][364]LogHotReload: New module detected: UE4Editor-ActorsAndComponents-0032.dll
+[2019.11.16-02.16.32:902][368]LogHotReload: Starting Hot-Reload from IDE
+[2019.11.16-02.16.32:989][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.11.16-02.16.33:027][368]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0004 seconds. Added 9 classes and 2 folders.
+[2019.11.16-02.16.33:032][368]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2019.11.16-02.16.33:160][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.11.16-02.16.33:184][368]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2873 classes and 684 folders.
+[2019.11.16-02.16.33:185][368]Display: HotReload took  0.3s.
+[2019.11.16-02.16.41:581][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-02.16.41:649][471]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.16-02.16.41:665][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.16-02.16.41:665][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.16-02.16.41:665][471]PIE: New page: PIE session: MyLevel (Nov 15, 2019, 4:16:41 PM)
+[2019.11.16-02.16.41:665][471]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.16-02.16.41:668][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002963s)
+[2019.11.16-02.16.41:671][471]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.16-02.16.41:671][471]LogPlayLevel: PIE: World Init took: (0.002766s)
+[2019.11.16-02.16.41:671][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.005894s)
+[2019.11.16-02.16.41:755][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2019.11.16-02.16.41:761][471]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.16-02.16.41:769][471]LogInit: FAudioDevice initialized.
+[2019.11.16-02.16.41:775][471]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.16-02.16.41:777][471]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.15-21.16.41
+[2019.11.16-02.16.41:777][471]LogWorld: Bringing up level for play took: 0.000932
+[2019.11.16-02.16.41:777][471]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.11.16-02.16.41:780][471]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.16-02.16.41:780][471]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.16-02.16.41:780][471]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel 0.051
+[2019.11.16-02.16.41:780][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.16-02.16.48:477][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.16-02.16.48:478][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-02.16.48:478][868]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.16-02.16.48:478][868]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-02.16.48:484][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.16-02.16.48:484][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.16-02.16.48:527][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-02.16.48:532][868]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.11.16-02.16.48:583][871]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.16-02.16.49:117][903]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.16-02.16.49:147][903]LogSlate: FSceneViewport::OnFocusLost() reason 5

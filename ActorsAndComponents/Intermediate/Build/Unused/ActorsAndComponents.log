@@ -1,20 +1,16 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
   Parsing headers for ActorsAndComponentsEditor
     Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for ActorsAndComponentsEditor in 6.1301651 seconds
+  Reflection code generated for ActorsAndComponentsEditor in 6.5175372 seconds
   Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 8 processes...
-    [1/4] HierarchyActor.cpp
-C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\HierarchyActor.cpp(31): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
-    C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
-C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\HierarchyActor.cpp(32): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
-    C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
-C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\HierarchyActor.cpp(34): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
-    C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
-    [2/4] UE4Editor-ActorsAndComponents-0023.lib
-       Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0023.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0023.exp
-    [3/4] UE4Editor-ActorsAndComponents-0023.dll
-       Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0023.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0023.suppressed.exp
-    [4/4] ActorsAndComponentsEditor.target
-  Total time in Parallel executor: 1.40 seconds
-  Total execution time: 8.32 seconds
+  Building 6 actions with 8 processes...
+    [1/6] ActorsAndComponents.init.gen.cpp
+    [2/6] ActorSpawnerComponent.cpp
+    [3/6] ActorSpawnerComponent.gen.cpp
+    [4/6] UE4Editor-ActorsAndComponents-0028.lib
+       Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0028.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0028.exp
+    [5/6] UE4Editor-ActorsAndComponents-0028.dll
+       Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0028.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-0028.suppressed.exp
+    [6/6] ActorsAndComponentsEditor.target
+  Total time in Parallel executor: 1.95 seconds
+  Total execution time: 9.29 seconds

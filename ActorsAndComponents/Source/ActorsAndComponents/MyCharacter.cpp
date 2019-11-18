@@ -2,6 +2,7 @@
 
 
 #include "MyCharacter.h"
+#include "GameFramework/PlayerInput.h"
 
 // Sets default values
 AMyCharacter::AMyCharacter()
@@ -44,12 +45,29 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+	// Get PlayerInput to register keybindings
+	auto PlayerInput = GetWorld()->GetFirstPlayerController()->PlayerInput;
+
+	// Define action mappings
+	FInputAxisKeyMapping Forward("Forward", EKeys::W, 1.0f);
+	FInputAxisKeyMapping Back("Back", EKeys::S, 1.0f);
+	FInputAxisKeyMapping Left("Left", EKeys::A, 1.0f);
+	FInputAxisKeyMapping Right("Right", EKeys::D, 1.0f);
+	FInputActionKeyMapping Jump("Jump", EKeys::SpaceBar);
+
+	// Add Keys to controller
+	PlayerInput->AddAxisMapping(Forward);
+	PlayerInput->AddAxisMapping(Back);
+	PlayerInput->AddAxisMapping(Left);
+	PlayerInput->AddAxisMapping(Right);
+	PlayerInput->AddActionMapping(Jump);
+
+	// Setup keybindings
 	check(PlayerInputComponent);
 	PlayerInputComponent->BindAxis("Forward", this, &AMyCharacter::Forward);
 	PlayerInputComponent->BindAxis("Back", this, &AMyCharacter::Back);
 	PlayerInputComponent->BindAxis("Left", this, &AMyCharacter::Left);
 	PlayerInputComponent->BindAxis("Right", this, &AMyCharacter::Right);
-
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AMyCharacter::Jump);
 }
 

@@ -9,3 +9,11 @@ C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramewor
 C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Public\GestureRecognizer.h
 C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Public\KeyState.h
 C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerInput.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\UE4CookbookGameModeBase.h
+C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\MyFirstActor.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\MyFirstActor.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\UE4CookbookGameModeBase.generated.h

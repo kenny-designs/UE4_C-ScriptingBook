@@ -3,6 +3,7 @@
 
 #include "MyCharacter.h"
 #include "GameFramework/PlayerInput.h"
+#include "UE4CookbookGameModeBase.h"
 
 // Sets default values
 AMyCharacter::AMyCharacter()
@@ -69,6 +70,15 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 	PlayerInputComponent->BindAxis("Left", this, &AMyCharacter::Left);
 	PlayerInputComponent->BindAxis("Right", this, &AMyCharacter::Right);
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &AMyCharacter::Jump);
+
+	// Calling function for hotkey
+	auto GameMode = Cast<AUE4CookbookGameModeBase>(GetWorld()->GetAuthGameMode());
+	auto Func = &AUE4CookbookGameModeBase::ButtonClicked;
+
+	if (GameMode && Func)
+	{
+		PlayerInputComponent->BindAction("HotKey_UIButton_Spell", IE_Pressed, GameMode, Func);
+	}
 }
 
 void AMyCharacter::Forward(float amount)

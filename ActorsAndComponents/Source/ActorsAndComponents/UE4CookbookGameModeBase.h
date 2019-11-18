@@ -18,6 +18,15 @@ class ACTORSANDCOMPONENTS_API AUE4CookbookGameModeBase : public AGameModeBase
 public:
 	virtual void BeginPlay() override;
 
+	UFUNCTION(BlueprintCallable, Category = UIFuncs)
+	void ButtonClicked()
+	{
+		UE_LOG(LogTemp, Warning, TEXT("UI Button Clicked"));	
+	}
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "UI")
+	TSubclassOf<class UUserWidget> Widget;
+
 	UPROPERTY()
 	AMyFirstActor* SpawnedActor;
 

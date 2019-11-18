@@ -21,6 +21,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_NATIVE_BEGIN; \
 		P_THIS->DestroyActorFunction(); \
 		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execButtonClicked) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->ButtonClicked(); \
+		P_NATIVE_END; \
 	}
 
 
@@ -31,6 +39,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
 		P_THIS->DestroyActorFunction(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execButtonClicked) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->ButtonClicked(); \
 		P_NATIVE_END; \
 	}
 

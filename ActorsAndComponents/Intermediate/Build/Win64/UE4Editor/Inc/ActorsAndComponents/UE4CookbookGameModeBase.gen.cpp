@@ -17,16 +17,43 @@ void EmptyLinkFunctionForGeneratedCodeUE4CookbookGameModeBase() {}
 	ACTORSANDCOMPONENTS_API UClass* Z_Construct_UClass_AUE4CookbookGameModeBase();
 	ENGINE_API UClass* Z_Construct_UClass_AGameModeBase();
 	UPackage* Z_Construct_UPackage__Script_ActorsAndComponents();
+	ACTORSANDCOMPONENTS_API UFunction* Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked();
 	ACTORSANDCOMPONENTS_API UFunction* Z_Construct_UFunction_AUE4CookbookGameModeBase_DestroyActorFunction();
 	ACTORSANDCOMPONENTS_API UClass* Z_Construct_UClass_AMyFirstActor_NoRegister();
+	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
+	UMG_API UClass* Z_Construct_UClass_UUserWidget_NoRegister();
 // End Cross Module References
 	void AUE4CookbookGameModeBase::StaticRegisterNativesAUE4CookbookGameModeBase()
 	{
 		UClass* Class = AUE4CookbookGameModeBase::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
+			{ "ButtonClicked", &AUE4CookbookGameModeBase::execButtonClicked },
 			{ "DestroyActorFunction", &AUE4CookbookGameModeBase::execDestroyActorFunction },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
+	}
+	struct Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked_Statics::Function_MetaDataParams[] = {
+		{ "Category", "UIFuncs" },
+		{ "ModuleRelativePath", "UE4CookbookGameModeBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AUE4CookbookGameModeBase, nullptr, "ButtonClicked", nullptr, nullptr, 0, nullptr, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked_Statics::Function_MetaDataParams, ARRAY_COUNT(Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked_Statics::FuncParams);
+		}
+		return ReturnFunction;
 	}
 	struct Z_Construct_UFunction_AUE4CookbookGameModeBase_DestroyActorFunction_Statics
 	{
@@ -65,6 +92,10 @@ void EmptyLinkFunctionForGeneratedCodeUE4CookbookGameModeBase() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_SpawnedActor_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_SpawnedActor;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Widget_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_Widget;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -74,6 +105,7 @@ void EmptyLinkFunctionForGeneratedCodeUE4CookbookGameModeBase() {}
 		(UObject* (*)())Z_Construct_UPackage__Script_ActorsAndComponents,
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::FuncInfo[] = {
+		{ &Z_Construct_UFunction_AUE4CookbookGameModeBase_ButtonClicked, "ButtonClicked" }, // 1167447455
 		{ &Z_Construct_UFunction_AUE4CookbookGameModeBase_DestroyActorFunction, "DestroyActorFunction" }, // 2829632127
 	};
 #if WITH_METADATA
@@ -91,8 +123,16 @@ void EmptyLinkFunctionForGeneratedCodeUE4CookbookGameModeBase() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_SpawnedActor = { "SpawnedActor", nullptr, (EPropertyFlags)0x0010000000000000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AUE4CookbookGameModeBase, SpawnedActor), Z_Construct_UClass_AMyFirstActor_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_SpawnedActor_MetaData, ARRAY_COUNT(Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_SpawnedActor_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_Widget_MetaData[] = {
+		{ "Category", "UI" },
+		{ "ModuleRelativePath", "UE4CookbookGameModeBase.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_Widget = { "Widget", nullptr, (EPropertyFlags)0x0014000000000005, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AUE4CookbookGameModeBase, Widget), Z_Construct_UClass_UUserWidget_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_Widget_MetaData, ARRAY_COUNT(Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_Widget_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_SpawnedActor,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::NewProp_Widget,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AUE4CookbookGameModeBase_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AUE4CookbookGameModeBase>::IsAbstract,
@@ -121,7 +161,7 @@ void EmptyLinkFunctionForGeneratedCodeUE4CookbookGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUE4CookbookGameModeBase, 3738867199);
+	IMPLEMENT_CLASS(AUE4CookbookGameModeBase, 2430114481);
 	template<> ACTORSANDCOMPONENTS_API UClass* StaticClass<AUE4CookbookGameModeBase>()
 	{
 		return AUE4CookbookGameModeBase::StaticClass();

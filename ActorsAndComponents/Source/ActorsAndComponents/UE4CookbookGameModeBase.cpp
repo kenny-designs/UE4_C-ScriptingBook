@@ -3,6 +3,7 @@
 
 #include "UE4CookbookGameModeBase.h"
 #include "MyFirstActor.h"
+#include "Blueprint/UserWidget.h"
 
 void AUE4CookbookGameModeBase::BeginPlay()
 {
@@ -19,6 +20,18 @@ void AUE4CookbookGameModeBase::BeginPlay()
 	// Destroy our spawned actor after 10 seconds
 	FTimerHandle Timer;
 	GetWorldTimerManager().SetTimer(Timer, this, &AUE4CookbookGameModeBase::DestroyActorFunction, 10);
+
+	// Add the widget to the screen
+	if (Widget)
+	{
+		UUserWidget* Menu = CreateWidget<UUserWidget>(GetWorld(), Widget);
+
+		if (Menu)
+		{
+			Menu->AddToViewport();
+			GetWorld()->GetFirstPlayerController()->bShowMouseCursor = true;
+		}
+	}
 }
 
 void AUE4CookbookGameModeBase::DestroyActorFunction()

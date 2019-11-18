@@ -862,3 +862,444 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.18-02.38.36:599][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.11.18-02.38.36:619][324]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
 [2019.11.18-02.38.36:653][326]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.18-02.46.27:751][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-02.46.27:817][105]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-02.46.27:835][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.46.27:835][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-02.46.27:835][105]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 4:46:27 PM)
+[2019.11.18-02.46.27:835][105]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-02.46.27:838][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002798s)
+[2019.11.18-02.46.27:839][105]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-02.46.27:839][105]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2019.11.18-02.46.27:839][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004322s)
+[2019.11.18-02.46.27:877][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.11.18-02.46.27:882][105]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-02.46.27:889][105]LogInit: FAudioDevice initialized.
+[2019.11.18-02.46.27:898][105]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-02.46.27:899][105]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-21.46.27
+[2019.11.18-02.46.27:899][105]LogWorld: Bringing up level for play took: 0.000734
+[2019.11.18-02.46.27:900][105]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.11.18-02.46.27:901][105]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-02.46.27:902][105]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-02.46.27:902][105]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel 0.975
+[2019.11.18-02.46.27:902][105]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.46.33:317][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.46.33:317][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-02.46.33:317][429]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-02.46.33:317][429]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-02.46.33:323][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-02.46.33:323][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.46.33:369][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-02.46.33:374][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.11.18-02.46.33:425][432]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.18-02.46.37:426][672]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.11.18-02.46.37:517][672]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.18-02.47.23:499][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-02.47.47:575][931]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Levels/NewWidgetBlueprint.NewWidgetBlueprint
+[2019.11.18-02.49.29:415][560]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2019.11.18-02.49.29:415][560]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MyLevel' took 0.091
+[2019.11.18-02.49.29:417][560]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/NewWidgetBlueprint] ([1] browsable assets)...
+[2019.11.18-02.49.29:417][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/NewWidgetBlueprint]
+[2019.11.18-02.49.29:422][560]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/NewWidgetBlueprint_Auto1CD0C03974CF823033E898C97528B9B78.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/Autosaves/Game/Levels/NewWidgetBlueprint_Auto1.uasset'
+[2019.11.18-02.49.29:423][560]LogFileHelpers: Auto-saving content packages took 0.007
+[2019.11.18-02.53.08:667][611]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.11.18-02.53.08:723][611]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2019.11.18-02.53.09:951][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewWidgetBlueprint" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/NewWidgetBlueprint.uasset" SILENT=true
+[2019.11.18-02.53.09:957][681]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/NewWidgetBlueprint57E087834CC56209FE80B88E0F581279.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/NewWidgetBlueprint.uasset'
+[2019.11.18-02.54.24:620][312]LogAssetEditorManager: Opening Asset editor for Class /Script/ActorsAndComponents.UE4CookbookGameModeBase
+[2019.11.18-02.57.36:512][620]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.11.18-02.57.36:561][620]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2019.11.18-02.57.37:243][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewWidgetBlueprint" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/NewWidgetBlueprint.uasset" SILENT=true
+[2019.11.18-02.57.37:345][658]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/NewWidgetBlueprint37952904463DA9B532C66CB311E01AF6.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/NewWidgetBlueprint.uasset'
+[2019.11.18-02.57.53:571][755]LogHotReload: New module detected: UE4Editor-ActorsAndComponents-0040.dll
+[2019.11.18-02.57.54:592][759]LogHotReload: Starting Hot-Reload from IDE
+[2019.11.18-02.57.54:671][759]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2019.11.18-02.57.54:693][759]LogClass: Could not find existing class UE4CookbookGameModeBase in package /Script/ActorsAndComponents for HotReload, assuming new class
+[2019.11.18-02.57.54:694][759]LogClass: Function ButtonClicked is new.
+[2019.11.18-02.57.54:694][759]LogClass: Function DestroyActorFunction is new.
+[2019.11.18-02.57.54:708][759]LogHotReload: Re-instancing UE4CookbookGameModeBase after hot-reload.
+[2019.11.18-02.57.54:937][759]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0004 seconds. Added 9 classes and 2 folders.
+[2019.11.18-02.57.54:944][759]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2019.11.18-02.57.55:081][759]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2019.11.18-02.57.55:101][759]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2873 classes and 684 folders.
+[2019.11.18-02.57.55:102][759]Display: HotReload took  0.5s.
+[2019.11.18-02.58.00:111][924]LogSlate: Took 0.025278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.18-02.58.13:794][743]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2019.11.18-02.58.13:903][743]LogUObjectHash: Compacting FUObjectHashTables data took  10.83ms
+[2019.11.18-02.58.15:036][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/NewWidgetBlueprint" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/NewWidgetBlueprint.uasset" SILENT=true
+[2019.11.18-02.58.15:046][808]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/NewWidgetBlueprint1AAB46044259D77B6B1B7A883FBBD314.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/NewWidgetBlueprint.uasset'
+[2019.11.18-02.58.26:190][185]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-02.58.26:223][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.58.26:223][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-02.58.26:224][185]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 4:58:26 PM)
+[2019.11.18-02.58.26:224][185]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-02.58.26:228][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004204s)
+[2019.11.18-02.58.26:229][185]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-02.58.26:229][185]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2019.11.18-02.58.26:229][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.005709s)
+[2019.11.18-02.58.26:306][185]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2019.11.18-02.58.26:311][185]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-02.58.26:319][185]LogInit: FAudioDevice initialized.
+[2019.11.18-02.58.26:329][185]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-02.58.26:330][185]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-21.58.26
+[2019.11.18-02.58.26:330][185]LogWorld: Bringing up level for play took: 0.000769
+[2019.11.18-02.58.26:330][185]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.11.18-02.58.26:332][185]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-02.58.26:333][185]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-02.58.26:333][185]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.594
+[2019.11.18-02.58.26:333][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.58.28:417][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.58.28:417][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-02.58.28:417][309]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-02.58.28:417][309]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-02.58.28:424][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-02.58.28:425][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.58.28:479][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-02.58.28:485][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.11.18-02.58.28:521][311]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.18-02.58.47:707][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-02.58.49:610][773]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_UE4CookbookGameModeBase.BP_UE4CookbookGameModeBase
+[2019.11.18-02.58.51:417][856]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-02.58.51:468][856]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_UE4CookbookGameModeBase.BP_UE4CookbookGameModeBase
+[2019.11.18-02.59.30:951][350]BlueprintLog: New page: Compile BP_UE4CookbookGameModeBase
+[2019.11.18-02.59.31:281][350]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2019.11.18-02.59.31:291][350]BlueprintLog: New page: Compile BP_UE4CookbookGameModeBase
+[2019.11.18-02.59.31:575][350]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2019.11.18-02.59.31:765][361]BlueprintLog: New page: Compile BP_UE4CookbookGameModeBase
+[2019.11.18-02.59.32:045][361]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2019.11.18-02.59.34:715][518]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/BP_UE4CookbookGameModeBase66A01CE4471FA91D4D197D8BB034BCA2.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Blueprints/BP_UE4CookbookGameModeBase.uasset'
+[2019.11.18-02.59.36:975][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-02.59.37:006][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.59.37:006][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-02.59.37:006][653]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 4:59:37 PM)
+[2019.11.18-02.59.37:006][653]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-02.59.37:009][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002651s)
+[2019.11.18-02.59.37:010][653]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-02.59.37:011][653]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2019.11.18-02.59.37:011][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004268s)
+[2019.11.18-02.59.37:059][653]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.11.18-02.59.37:067][653]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-02.59.37:076][653]LogInit: FAudioDevice initialized.
+[2019.11.18-02.59.37:081][653]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-02.59.37:082][653]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-21.59.37
+[2019.11.18-02.59.37:083][653]LogWorld: Bringing up level for play took: 0.000833
+[2019.11.18-02.59.37:083][653]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.11.18-02.59.37:086][653]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-02.59.37:086][653]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-02.59.37:086][653]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel 0.159
+[2019.11.18-02.59.37:087][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.59.39:955][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.59.39:956][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-02.59.39:956][824]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-02.59.39:956][824]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-02.59.39:967][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-02.59.39:967][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-02.59.40:029][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-02.59.40:037][824]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2019.11.18-02.59.40:062][825]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.18-02.59.45:279][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-02.59.48:000][296]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel
+[2019.11.18-02.59.59:157][942]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.00.36:974][185]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.00.37:004][185]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.00.37:004][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.00.37:004][185]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:00:37 PM)
+[2019.11.18-03.00.37:004][185]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.00.37:007][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002696s)
+[2019.11.18-03.00.37:008][185]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.00.37:009][185]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2019.11.18-03.00.37:009][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004242s)
+[2019.11.18-03.00.37:063][185]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2019.11.18-03.00.37:070][185]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.00.37:079][185]LogInit: FAudioDevice initialized.
+[2019.11.18-03.00.37:088][185]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.00.37:089][185]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.00.37
+[2019.11.18-03.00.37:089][185]LogWorld: Bringing up level for play took: 0.000846
+[2019.11.18-03.00.37:089][185]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.11.18-03.00.37:092][185]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.00.37:092][185]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-03.00.37:092][185]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel 0.165
+[2019.11.18-03.00.37:092][185]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.00.40:564][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.00.40:564][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.00.40:564][392]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.00.40:564][392]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.00.40:575][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.00.40:575][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.00.40:625][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.00.40:631][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.11.18-03.00.40:672][394]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.11.18-03.00.41:356][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.00.45:766][699]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.18-03.01.19:107][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.02.45:707][882]BlueprintLog: New page: Compile BP_UE4CookbookGameModeBase
+[2019.11.18-03.02.45:984][882]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.11.18-03.02.46:534][912]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/BP_UE4CookbookGameModeBase3AADDB324DF72B2BC0732DBD59FD7D1C.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Blueprints/BP_UE4CookbookGameModeBase.uasset'
+[2019.11.18-03.02.48:655][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.02.48:682][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.02.48:682][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.02.48:682][ 35]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:02:48 PM)
+[2019.11.18-03.02.48:682][ 35]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.02.48:685][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002468s)
+[2019.11.18-03.02.48:686][ 35]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.02.48:686][ 35]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2019.11.18-03.02.48:686][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.003946s)
+[2019.11.18-03.02.48:735][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2019.11.18-03.02.48:740][ 35]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.02.48:748][ 35]LogInit: FAudioDevice initialized.
+[2019.11.18-03.02.48:752][ 35]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.02.48:754][ 35]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.02.48
+[2019.11.18-03.02.48:754][ 35]LogWorld: Bringing up level for play took: 0.000908
+[2019.11.18-03.02.48:754][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.11.18-03.02.48:757][ 35]LogBlueprintUserMessages: [BP_UE4CookbookGameModeBase_C_0] UI should be here...
+[2019.11.18-03.02.48:757][ 35]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.02.48:757][ 35]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-03.02.48:757][ 35]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.17
+[2019.11.18-03.02.48:757][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.02.51:159][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.02.51:159][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.02.51:159][178]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.02.51:160][178]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.02.51:171][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.02.51:171][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.02.51:222][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.02.51:228][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.11.18-03.02.51:271][180]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.11.18-03.02.52:021][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.02.55:255][419]BlueprintLog: New page: Compile BP_UE4CookbookGameModeBase
+[2019.11.18-03.02.55:563][419]LogUObjectHash: Compacting FUObjectHashTables data took   6.79ms
+[2019.11.18-03.02.56:122][449]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/BP_UE4CookbookGameModeBase273FD58541B2D3B3EA534785DB310DDF.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Blueprints/BP_UE4CookbookGameModeBase.uasset'
+[2019.11.18-03.03.30:612][884]BlueprintLog: New page: Compile BP_UE4CookbookGameModeBase
+[2019.11.18-03.03.30:885][884]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2019.11.18-03.03.31:301][906]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/BP_UE4CookbookGameModeBase1DB1900A41695B3652E9FCA0788D21A3.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Blueprints/BP_UE4CookbookGameModeBase.uasset'
+[2019.11.18-03.03.32:845][996]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.03.32:870][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.03.32:870][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.03.32:870][996]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:03:32 PM)
+[2019.11.18-03.03.32:870][996]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.03.32:873][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002546s)
+[2019.11.18-03.03.32:874][996]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.03.32:874][996]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2019.11.18-03.03.32:874][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.003902s)
+[2019.11.18-03.03.32:924][996]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2019.11.18-03.03.32:931][996]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.03.32:938][996]LogInit: FAudioDevice initialized.
+[2019.11.18-03.03.32:946][996]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.03.32:947][996]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.03.32
+[2019.11.18-03.03.32:947][996]LogWorld: Bringing up level for play took: 0.000725
+[2019.11.18-03.03.32:947][996]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.11.18-03.03.32:949][996]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.03.32:950][996]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-03.03.32:950][996]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel 0.022
+[2019.11.18-03.03.32:950][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.03.34:082][ 63]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.34:999][118]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.35:800][166]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.36:116][185]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.36:299][196]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.36:483][207]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.36:666][218]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.36:849][229]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.37:866][290]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.38:049][301]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.38:249][313]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.38:750][343]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.38:933][354]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.39:116][365]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.39:283][375]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.39:966][416]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.03.41:781][523]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.03.41:781][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.03.41:781][523]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.03.41:781][523]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.03.41:789][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.03.41:789][523]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.03.41:838][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.03.41:843][523]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.11.18-03.03.41:879][525]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.11.18-03.03.42:665][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.03.42:714][572]LogSlate: Took 0.045721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.11.18-03.03.48:212][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.03.48:278][899]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.03.48:303][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.03.48:303][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.03.48:303][899]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:03:48 PM)
+[2019.11.18-03.03.48:303][899]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.03.48:306][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002821s)
+[2019.11.18-03.03.48:308][899]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.03.48:308][899]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2019.11.18-03.03.48:308][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004812s)
+[2019.11.18-03.03.48:356][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.11.18-03.03.48:362][899]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.03.48:370][899]LogInit: FAudioDevice initialized.
+[2019.11.18-03.03.48:379][899]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.03.48:380][899]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.03.48
+[2019.11.18-03.03.48:380][899]LogWorld: Bringing up level for play took: 0.000880
+[2019.11.18-03.03.48:381][899]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.11.18-03.03.48:383][899]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.03.48:384][899]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-03.03.48:384][899]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.544
+[2019.11.18-03.03.48:384][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.03.58:187][486]LogCharacterMovement: BP_MyCharacter_C_0 is stuck and failed to move! Velocity: X=-151.14 Y=-142.11 Z=0.00 Location: X=-70.79 Y=105.03 Z=110.15 Normal: X=0.71 Y=0.71 Z=-0.00 PenetrationDepth:0.000 Actor:Cone_2 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.11.18-03.04.00:421][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.04.00:422][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.04.00:422][620]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.04.00:422][620]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.04.00:430][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.04.00:431][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.04.00:486][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.04.00:493][620]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.11.18-03.04.00:531][622]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.11.18-03.04.06:082][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2019.11.18-03.04.07:401][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.07.05:527][156]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.18-03.07.10:538][445]BlueprintLog: New page: Compile BP_UE4CookbookGameModeBase
+[2019.11.18-03.07.10:825][445]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2019.11.18-03.07.11:390][476]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/BP_UE4CookbookGameModeBaseBABF626843AB96903CB759897FB35D2F.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Blueprints/BP_UE4CookbookGameModeBase.uasset'
+[2019.11.18-03.07.13:297][590]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.07.13:320][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.07.13:320][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.07.13:321][590]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:07:13 PM)
+[2019.11.18-03.07.13:321][590]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.07.13:324][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002990s)
+[2019.11.18-03.07.13:325][590]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.07.13:326][590]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2019.11.18-03.07.13:326][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004994s)
+[2019.11.18-03.07.13:372][590]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2019.11.18-03.07.13:378][590]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.07.13:387][590]LogInit: FAudioDevice initialized.
+[2019.11.18-03.07.13:393][590]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.07.13:394][590]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.07.13
+[2019.11.18-03.07.13:395][590]LogWorld: Bringing up level for play took: 0.000928
+[2019.11.18-03.07.13:395][590]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.11.18-03.07.13:397][590]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.07.13:397][590]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-03.07.13:398][590]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel 0.47
+[2019.11.18-03.07.13:398][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.07.14:963][683]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.07.14:964][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.07.14:964][683]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.07.14:964][683]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.07.14:971][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.07.14:972][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.07.15:020][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.07.15:026][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.11.18-03.07.15:078][686]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.11.18-03.07.20:417][791]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.18-03.14.38:863][367]LogHotReload: New module detected: UE4Editor-ActorsAndComponents-0042.dll
+[2019.11.18-03.14.39:543][370]LogHotReload: Starting Hot-Reload from IDE
+[2019.11.18-03.14.39:633][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.11.18-03.14.39:661][370]LogClass: Could not find existing class UE4CookbookGameModeBase in package /Script/ActorsAndComponents for HotReload, assuming new class
+[2019.11.18-03.14.39:661][370]LogClass: Function ButtonClicked is new.
+[2019.11.18-03.14.39:661][370]LogClass: Function DestroyActorFunction is new.
+[2019.11.18-03.14.39:679][370]LogHotReload: Re-instancing UE4CookbookGameModeBase after hot-reload.
+[2019.11.18-03.14.40:244][370]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0004 seconds. Added 9 classes and 2 folders.
+[2019.11.18-03.14.40:251][370]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2019.11.18-03.14.40:405][370]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2019.11.18-03.14.40:427][370]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2873 classes and 684 folders.
+[2019.11.18-03.14.40:428][370]Display: HotReload took  0.9s.
+[2019.11.18-03.14.46:144][478]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.14.46:178][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.14.46:179][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.14.46:179][478]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:14:46 PM)
+[2019.11.18-03.14.46:179][478]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.14.46:183][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003571s)
+[2019.11.18-03.14.46:185][478]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.14.46:186][478]LogPlayLevel: PIE: World Init took: (0.002170s)
+[2019.11.18-03.14.46:186][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.006265s)
+[2019.11.18-03.14.46:268][478]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2019.11.18-03.14.46:278][478]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.14.46:285][478]LogInit: FAudioDevice initialized.
+[2019.11.18-03.14.46:291][478]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.14.46:292][478]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.14.46
+[2019.11.18-03.14.46:292][478]LogWorld: Bringing up level for play took: 0.000898
+[2019.11.18-03.14.46:293][478]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.11.18-03.14.46:295][478]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.14.46:295][478]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-03.14.46:295][478]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.631
+[2019.11.18-03.14.46:296][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.14.49:400][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.14.49:400][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.14.49:401][663]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.14.49:401][663]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.14.49:410][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.14.49:410][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.14.49:462][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.14.49:472][663]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.11.18-03.14.49:508][665]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.11.18-03.14.52:432][775]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.18-03.15.41:591][526]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.18-03.15.52:974][205]BlueprintLog: New page: Compile BP_UE4CookbookGameModeBase
+[2019.11.18-03.15.53:299][205]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2019.11.18-03.15.53:985][243]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/BP_UE4CookbookGameModeBaseAB103C934DA3F94F44A806A9592D3943.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Blueprints/BP_UE4CookbookGameModeBase.uasset'
+[2019.11.18-03.15.56:177][374]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.15.56:203][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.15.56:204][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.15.56:204][374]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:15:56 PM)
+[2019.11.18-03.15.56:204][374]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.15.56:207][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003033s)
+[2019.11.18-03.15.56:208][374]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.15.56:209][374]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2019.11.18-03.15.56:209][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004897s)
+[2019.11.18-03.15.56:261][374]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2019.11.18-03.15.56:267][374]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.15.56:274][374]LogInit: FAudioDevice initialized.
+[2019.11.18-03.15.56:280][374]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.15.56:281][374]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.15.56
+[2019.11.18-03.15.56:282][374]LogWorld: Bringing up level for play took: 0.001068
+[2019.11.18-03.15.56:282][374]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.11.18-03.15.56:285][374]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.15.56:342][374]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-03.15.56:342][374]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.585
+[2019.11.18-03.15.56:343][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.15.57:893][466]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.16.01:142][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.16.01:226][666]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.16.03:702][814]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.16.06:967][  9]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.16.07:717][ 54]LogTemp: Warning: UI Button Clicked
+[2019.11.18-03.16.10:265][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.16.10:266][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.16.10:266][205]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.16.10:266][205]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.16.10:276][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.16.10:276][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.16.10:331][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.16.10:338][205]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.11.18-03.16.10:371][207]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.11.18-03.16.13:654][404]LogEditorViewport: Clicking on Actor (context menu): HierarchyActor (HierarchyActor3)
+[2019.11.18-03.16.13:700][404]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.18-03.18.50:130][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.18.58:112][672]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.18.58:142][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.18.58:143][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.18.58:143][672]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:18:58 PM)
+[2019.11.18-03.18.58:143][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.18.58:146][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002665s)
+[2019.11.18-03.18.58:147][672]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.18.58:147][672]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2019.11.18-03.18.58:148][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004407s)
+[2019.11.18-03.18.58:202][672]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2019.11.18-03.18.58:212][672]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.18.58:219][672]LogInit: FAudioDevice initialized.
+[2019.11.18-03.18.58:225][672]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.18.58:227][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.18.58
+[2019.11.18-03.18.58:227][672]LogWorld: Bringing up level for play took: 0.001066
+[2019.11.18-03.18.58:227][672]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.11.18-03.18.58:230][672]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.18.58:230][672]LogBlueprintUserMessages: [MyLevel_C_5] An instance of AWarrior: Kenny
+[2019.11.18-03.18.58:230][672]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.697
+[2019.11.18-03.18.58:231][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.18.59:564][751]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.18.59:565][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.18.59:565][751]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.18.59:565][751]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.18.59:572][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.18.59:572][751]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.18.59:622][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.18.59:629][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.11.18-03.18.59:678][754]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.11.18-03.19.00:381][796]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.18-03.19.00:409][796]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.18-03.19.00:581][804]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.18-03.19.00:600][804]LogSlate: FSceneViewport::OnFocusLost() reason 5

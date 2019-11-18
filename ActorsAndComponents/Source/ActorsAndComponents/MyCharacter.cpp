@@ -4,6 +4,7 @@
 #include "MyCharacter.h"
 #include "GameFramework/PlayerInput.h"
 #include "UE4CookbookGameModeBase.h"
+#include "Components/CapsuleComponent.h"
 
 // Sets default values
 AMyCharacter::AMyCharacter()
@@ -79,6 +80,36 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 	{
 		PlayerInputComponent->BindAction("HotKey_UIButton_Spell", IE_Pressed, GameMode, Func);
 	}
+}
+
+void AMyCharacter::PostInitializeComponents()
+{
+	Super::PostInitializeComponents();
+
+	if (RootComponent)
+	{
+		// Attach contact function to all bounding components
+		GetCapsuleComponent()->OnComponentBeginOverlap.AddDynamic(this, &AMyCharacter::OnOverlapsBegin);
+		GetCapsuleComponent()->OnComponentEndOverlap.AddDynamic(this, &AMyCharacter::OnOverlapsEnd);
+	}
+}
+
+void AMyCharacter::OnOverlapsBegin_Implementation(UPrimitiveComponent* Comp,
+	                               AActor* OtherActor,
+	                               UPrimitiveComponent* OtherComp,
+	                               int32 OtherBodyIndex,
+	                               bool bFromSweep,
+	                               const FHitResult& SweepResult)
+{
+	UE_LOG(LogTemp, Warning, TEXT("Overlaps character began!"));
+}
+
+void AMyCharacter::OnOverlapsEnd_Implementation(UPrimitiveComponent* Comp,
+	                             AActor* OtherActor,
+	                             UPrimitiveComponent* OtherComp,
+	                             int32 OtherBodyIndex)
+{
+	UE_LOG(LogTemp, Warning, TEXT("Overlaps character ended."));
 }
 
 void AMyCharacter::Forward(float amount)

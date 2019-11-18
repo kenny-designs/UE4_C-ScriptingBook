@@ -1413,3 +1413,284 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.18-03.49.48:436][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.11.18-03.49.48:443][418]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
 [2019.11.18-03.49.48:477][420]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.11.18-03.51.23:160][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.18-03.51.24:433][962]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.18-03.51.25:425][962]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.18-03.52.12:326][801]LogSlate: Window 'New Channel' being destroyed
+[2019.11.18-03.52.12:375][801]LogConfig: Warning: Failed to saved backup for config[../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2019.11.18-03.52.50:853][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.52.51:024][ 16]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.18-03.52.51:026][ 16]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.18-03.52.55:141][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.52.55:309][268]LogActorFactory: Actor Factory created Cube
+[2019.11.18-03.52.56:477][337]LogActorFactory: Actor Factory created Cube
+[2019.11.18-03.53.05:013][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-03.56.09:903][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.18-03.56.09:963][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2019.11.18-03.56.10:300][ 38]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevelF033BF874846D9F5B834E4851DF3A5AA.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.18-03.56.10:321][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.18-03.56.10:330][ 38]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltDataBE9192FD43EB1D9EE988DE9FA5A4AA14.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.18-03.57.04:730][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.18-03.57.04:803][451]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2019.11.18-03.57.05:081][451]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel32383DAA4AC75557714127BCB192DBFF.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.18-03.57.05:102][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.18-03.57.05:110][451]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltData7C63310644A2F6C368FCA0816967A0DB.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.18-03.57.37:529][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.18-03.57.37:581][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.11.18-03.57.37:870][ 55]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel169AE3CC41075AC1CC72A081A77CBBB5.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel.umap'
+[2019.11.18-03.57.37:888][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MyLevel_BuiltData" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset" SILENT=true
+[2019.11.18-03.57.37:897][ 55]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/MyLevel_BuiltData2EF7BB5B4F50C5E80B9BF6B475DF2414.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Levels/MyLevel_BuiltData.uasset'
+[2019.11.18-03.58.39:958][ 62]LogRenderer: Reallocating scene render targets to support 872x540 Format 10 NumSamples 1 (Frame:42934).
+[2019.11.18-03.58.40:559][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-03.58.40:592][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.58.40:592][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-03.58.40:592][ 98]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 5:58:40 PM)
+[2019.11.18-03.58.40:593][ 98]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.58.40:597][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003943s)
+[2019.11.18-03.58.40:598][ 98]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-03.58.40:598][ 98]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2019.11.18-03.58.40:598][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.005677s)
+[2019.11.18-03.58.40:653][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2019.11.18-03.58.40:658][ 98]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-03.58.40:666][ 98]LogInit: FAudioDevice initialized.
+[2019.11.18-03.58.40:676][ 98]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-03.58.40:677][ 98]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-22.58.40
+[2019.11.18-03.58.40:677][ 98]LogWorld: Bringing up level for play took: 0.000753
+[2019.11.18-03.58.40:677][ 98]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.11.18-03.58.40:679][ 98]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-03.58.40:680][ 98]LogBlueprintUserMessages: [MyLevel_C_3] An instance of AWarrior: Kenny
+[2019.11.18-03.58.40:680][ 98]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.247
+[2019.11.18-03.58.40:680][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.58.46:498][441]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.58.46:498][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.58.46:498][441]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-03.58.46:499][441]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-03.58.46:515][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-03.58.46:516][441]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-03.58.46:592][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-03.58.46:598][441]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.11.18-03.58.46:615][442]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.11.18-04.11.22:261][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-04.11.22:336][863]Candidate modules for hot reload:
+[2019.11.18-04.11.22:336][863]  ActorsAndComponents
+[2019.11.18-04.11.22:336][863]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,429 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.18-04.11.22:337][863]Warning: Starting HotReload took  0.0s.
+[2019.11.18-04.11.31:723][416]CompilerResultsLog: New page: Compilation - Nov 17, 2019, 6:11:31 PM
+[2019.11.18-04.11.31:723][416]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.18-04.11.31:723][416]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.18-04.11.31:723][416]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.18-04.11.31:723][416]CompilerResultsLog: Reflection code generated for ActorsAndComponentsEditor in 7.2504343 seconds
+[2019.11.18-04.11.31:723][416]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.18-04.11.31:723][416]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.11.18-04.11.31:723][416]CompilerResultsLog:   [1/4] MyCharacter.cpp
+[2019.11.18-04.11.31:723][416]CompilerResultsLog:    C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\MyCharacter.cpp(91) : error C2027: use of undefined type 'UCapsuleComponent'
+[2019.11.18-04.11.31:723][416]CompilerResultsLog:   C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(23): note: see declaration of 'UCapsuleComponent'
+[2019.11.18-04.11.31:723][416]CompilerResultsLog:    C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\MyCharacter.cpp(92) : error C2027: use of undefined type 'UCapsuleComponent'
+[2019.11.18-04.11.31:723][416]CompilerResultsLog:   C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(23): note: see declaration of 'UCapsuleComponent'
+[2019.11.18-04.11.31:723][416]LogMainFrame: MainFrame: Module compiling took 9.389 seconds
+[2019.11.18-04.11.31:724][416]Warning: HotReload failed, recompile failed
+[2019.11.18-04.11.57:314][412]LogSlate: Window 'Message Log' being destroyed
+[2019.11.18-04.11.57:317][412]LogSlate: Window 'Message Log' being destroyed
+[2019.11.18-04.13.14:269][847]Candidate modules for hot reload:
+[2019.11.18-04.13.14:269][847]  ActorsAndComponents
+[2019.11.18-04.13.14:269][847]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,2443 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.18-04.13.14:270][847]Warning: Starting HotReload took  0.0s.
+[2019.11.18-04.13.24:060][424]CompilerResultsLog: New page: Compilation - Nov 17, 2019, 6:13:24 PM
+[2019.11.18-04.13.24:060][424]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.18-04.13.24:060][424]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.18-04.13.24:060][424]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Reflection code generated for ActorsAndComponentsEditor in 7.7095922 seconds
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.11.18-04.13.24:061][424]CompilerResultsLog:   [1/3] UE4Editor-ActorsAndComponents-2443.lib
+[2019.11.18-04.13.24:061][424]CompilerResultsLog:   MyCharacter.gen.cpp.obj : warning LNK4006: "public: void __cdecl AMyCharacter::OnOverlapsBegin(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int,bool,struct FHitResult const &)" (?OnOverlapsBegin@AMyCharacter@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H_NAEBUFHitResult@@@Z) already defined in MyCharacter.cpp.obj; second definition ignored
+[2019.11.18-04.13.24:061][424]CompilerResultsLog:   MyCharacter.gen.cpp.obj : warning LNK4006: "public: void __cdecl AMyCharacter::OnOverlapsEnd(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int)" (?OnOverlapsEnd@AMyCharacter@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H@Z) already defined in MyCharacter.cpp.obj; second definition ignored
+[2019.11.18-04.13.24:061][424]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-2443.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-2443.exp
+[2019.11.18-04.13.24:061][424]CompilerResultsLog:   [2/3] UE4Editor-ActorsAndComponents-2443.dll
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Error:   MyCharacter.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyCharacter::OnOverlapsBegin(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int,bool,struct FHitResult const &)" (?OnOverlapsBegin@AMyCharacter@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H_NAEBUFHitResult@@@Z) already defined in MyCharacter.cpp.obj
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Error:   MyCharacter.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyCharacter::OnOverlapsEnd(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int)" (?OnOverlapsEnd@AMyCharacter@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H@Z) already defined in MyCharacter.cpp.obj
+[2019.11.18-04.13.24:061][424]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-2443.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-2443.suppressed.exp
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Error:   MyCharacter.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AMyCharacter::OnOverlapsEnd_Implementation(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int)" (?OnOverlapsEnd_Implementation@AMyCharacter@@UEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H@Z)
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Error:   MyCharacter.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AMyCharacter::OnOverlapsEnd_Implementation(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int)" (?OnOverlapsEnd_Implementation@AMyCharacter@@UEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H@Z)
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Error:   MyCharacter.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AMyCharacter::OnOverlapsBegin_Implementation(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int,bool,struct FHitResult const &)" (?OnOverlapsBegin_Implementation@AMyCharacter@@UEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H_NAEBUFHitResult@@@Z)
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Error:   MyCharacter.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AMyCharacter::OnOverlapsBegin_Implementation(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int,bool,struct FHitResult const &)" (?OnOverlapsBegin_Implementation@AMyCharacter@@UEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H_NAEBUFHitResult@@@Z)
+[2019.11.18-04.13.24:061][424]CompilerResultsLog: Error:   C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Binaries\Win64\UE4Editor-ActorsAndComponents-2443.dll : fatal error LNK1120: 2 unresolved externals
+[2019.11.18-04.13.24:061][424]LogMainFrame: MainFrame: Module compiling took 9.794 seconds
+[2019.11.18-04.13.24:061][424]Warning: HotReload failed, recompile failed
+[2019.11.18-04.13.34:262][ 24]LogSlate: Window 'Message Log' being destroyed
+[2019.11.18-04.13.34:264][ 24]LogSlate: Window 'Message Log' being destroyed
+[2019.11.18-04.16.39:424][763]Candidate modules for hot reload:
+[2019.11.18-04.16.39:424][763]  ActorsAndComponents
+[2019.11.18-04.16.39:424][763]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,3759 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.18-04.16.39:425][763]Warning: Starting HotReload took  0.0s.
+[2019.11.18-04.16.49:563][ 15]CompilerResultsLog: New page: Compilation - Nov 17, 2019, 6:16:49 PM
+[2019.11.18-04.16.49:563][ 15]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.18-04.16.49:563][ 15]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.18-04.16.49:563][ 15]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.18-04.16.49:563][ 15]CompilerResultsLog: Reflection code generated for ActorsAndComponentsEditor in 6.7925186 seconds
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog:   [1/4] MyCharacter.cpp
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog:   [2/4] UE4Editor-ActorsAndComponents-3759.lib
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog:   MyCharacter.gen.cpp.obj : warning LNK4006: "public: void __cdecl AMyCharacter::OnOverlapsBegin(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int,bool,struct FHitResult const &)" (?OnOverlapsBegin@AMyCharacter@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H_NAEBUFHitResult@@@Z) already defined in MyCharacter.cpp.obj; second definition ignored
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog:   MyCharacter.gen.cpp.obj : warning LNK4006: "public: void __cdecl AMyCharacter::OnOverlapsEnd(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int)" (?OnOverlapsEnd@AMyCharacter@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H@Z) already defined in MyCharacter.cpp.obj; second definition ignored
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-3759.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-3759.exp
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog:   [3/4] UE4Editor-ActorsAndComponents-3759.dll
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Error:   MyCharacter.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyCharacter::OnOverlapsBegin(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int,bool,struct FHitResult const &)" (?OnOverlapsBegin@AMyCharacter@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H_NAEBUFHitResult@@@Z) already defined in MyCharacter.cpp.obj
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Error:   MyCharacter.gen.cpp.obj : error LNK2005: "public: void __cdecl AMyCharacter::OnOverlapsEnd(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int)" (?OnOverlapsEnd@AMyCharacter@@QEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H@Z) already defined in MyCharacter.cpp.obj
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-3759.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-3759.suppressed.exp
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Error:   MyCharacter.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AMyCharacter::OnOverlapsEnd_Implementation(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int)" (?OnOverlapsEnd_Implementation@AMyCharacter@@UEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H@Z)
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Error:   MyCharacter.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AMyCharacter::OnOverlapsEnd_Implementation(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int)" (?OnOverlapsEnd_Implementation@AMyCharacter@@UEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H@Z)
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Error:   MyCharacter.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AMyCharacter::OnOverlapsBegin_Implementation(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int,bool,struct FHitResult const &)" (?OnOverlapsBegin_Implementation@AMyCharacter@@UEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H_NAEBUFHitResult@@@Z)
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Error:   MyCharacter.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AMyCharacter::OnOverlapsBegin_Implementation(class UPrimitiveComponent *,class AActor *,class UPrimitiveComponent *,int,bool,struct FHitResult const &)" (?OnOverlapsBegin_Implementation@AMyCharacter@@UEAAXPEAVUPrimitiveComponent@@PEAVAActor@@0H_NAEBUFHitResult@@@Z)
+[2019.11.18-04.16.49:564][ 15]CompilerResultsLog: Error:   C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Binaries\Win64\UE4Editor-ActorsAndComponents-3759.dll : fatal error LNK1120: 2 unresolved externals
+[2019.11.18-04.16.49:564][ 15]LogMainFrame: MainFrame: Module compiling took 10.141 seconds
+[2019.11.18-04.16.49:564][ 15]Warning: HotReload failed, recompile failed
+[2019.11.18-04.17.38:477][206]LogSlate: Window 'Message Log' being destroyed
+[2019.11.18-04.17.38:480][206]LogSlate: Window 'Message Log' being destroyed
+[2019.11.18-04.26.55:965][748]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-04.26.55:996][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.26.55:996][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-04.26.55:996][748]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 6:26:55 PM)
+[2019.11.18-04.26.55:997][748]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-04.26.56:000][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003516s)
+[2019.11.18-04.26.56:001][748]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-04.26.56:002][748]LogPlayLevel: PIE: World Init took: (0.001639s)
+[2019.11.18-04.26.56:002][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.005351s)
+[2019.11.18-04.26.56:061][748]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2019.11.18-04.26.56:066][748]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-04.26.56:074][748]LogInit: FAudioDevice initialized.
+[2019.11.18-04.26.56:083][748]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-04.26.56:084][748]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-23.26.56
+[2019.11.18-04.26.56:085][748]LogWorld: Bringing up level for play took: 0.000902
+[2019.11.18-04.26.56:085][748]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.11.18-04.26.56:087][748]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-04.26.56:088][748]LogBlueprintUserMessages: [MyLevel_C_3] An instance of AWarrior: Kenny
+[2019.11.18-04.26.56:088][748]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.839
+[2019.11.18-04.26.56:088][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.27.13:146][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-04.27.14:730][865]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.27.14:731][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-04.27.14:731][865]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-04.27.14:732][865]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-04.27.14:738][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-04.27.14:738][865]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.27.14:795][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-04.27.14:801][865]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.11.18-04.27.14:842][867]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.11.18-04.27.36:424][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-04.27.36:507][ 61]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-04.27.36:537][ 61]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.27.36:537][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-04.27.36:537][ 61]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 6:27:36 PM)
+[2019.11.18-04.27.36:537][ 61]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-04.27.36:540][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002720s)
+[2019.11.18-04.27.36:542][ 61]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-04.27.36:542][ 61]LogPlayLevel: PIE: World Init took: (0.001647s)
+[2019.11.18-04.27.36:542][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.004755s)
+[2019.11.18-04.27.36:599][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.11.18-04.27.36:605][ 61]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-04.27.36:612][ 61]LogInit: FAudioDevice initialized.
+[2019.11.18-04.27.36:619][ 61]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-04.27.36:620][ 61]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-23.27.36
+[2019.11.18-04.27.36:621][ 61]LogWorld: Bringing up level for play took: 0.000963
+[2019.11.18-04.27.36:621][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.11.18-04.27.36:623][ 61]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-04.27.36:624][ 61]LogBlueprintUserMessages: [MyLevel_C_3] An instance of AWarrior: Kenny
+[2019.11.18-04.27.36:624][ 61]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel -0.303
+[2019.11.18-04.27.36:625][ 61]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.27.38:860][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-04.27.47:160][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-04.27.52:412][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.27.52:413][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-04.27.52:413][  6]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-04.27.52:413][  6]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-04.27.52:419][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-04.27.52:419][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.27.52:476][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-04.27.52:483][  6]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2019.11.18-04.27.52:517][  8]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.11.18-04.27.53:133][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.18-04.28.02:346][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-04.30.47:336][ 72]Candidate modules for hot reload:
+[2019.11.18-04.30.47:336][ 72]  ActorsAndComponents
+[2019.11.18-04.30.47:336][ 72]Launching UnrealBuildTool... [C:/Program Files (x86)/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ActorsAndComponents,9972 Win64 Development -TargetType=Editor -Project="C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject" "C:/UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/ActorsAndComponents.uproject"  -IgnoreJunk]
+[2019.11.18-04.30.47:337][ 72]Warning: Starting HotReload took  0.0s.
+[2019.11.18-04.30.58:426][724]CompilerResultsLog: New page: Compilation - Nov 17, 2019, 6:30:58 PM
+[2019.11.18-04.30.58:426][724]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\UnrealGames\UE4_C++ScriptingBook).
+[2019.11.18-04.30.58:426][724]CompilerResultsLog: Parsing headers for ActorsAndComponentsEditor
+[2019.11.18-04.30.58:427][724]CompilerResultsLog:   Running UnrealHeaderTool "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\ActorsAndComponents.uproject" "C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\ActorsAndComponentsEditor\Development\ActorsAndComponentsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.18-04.30.58:427][724]CompilerResultsLog: Reflection code generated for ActorsAndComponentsEditor in 7.9313882 seconds
+[2019.11.18-04.30.58:428][724]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.11.18-04.30.58:428][724]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.11.18-04.30.58:428][724]CompilerResultsLog:   [1/3] UE4Editor-ActorsAndComponents-9972.lib
+[2019.11.18-04.30.58:429][724]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-9972.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-9972.exp
+[2019.11.18-04.30.58:429][724]CompilerResultsLog:   [2/3] UE4Editor-ActorsAndComponents-9972.dll
+[2019.11.18-04.30.58:429][724]CompilerResultsLog:      Creating library C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-9972.suppressed.lib and object C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\UE4Editor-ActorsAndComponents-9972.suppressed.exp
+[2019.11.18-04.30.58:430][724]CompilerResultsLog:   [3/3] ActorsAndComponentsEditor.target
+[2019.11.18-04.30.58:430][724]CompilerResultsLog: Total time in Parallel executor: 1.72 seconds
+[2019.11.18-04.30.58:431][724]CompilerResultsLog: Total execution time: 11.02 seconds
+[2019.11.18-04.30.58:431][724]LogMainFrame: MainFrame: Module compiling took 11.096 seconds
+[2019.11.18-04.30.58:494][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.11.18-04.30.58:511][724]LogClass: Could not find existing class MyCharacter in package /Script/ActorsAndComponents for HotReload, assuming new class
+[2019.11.18-04.30.58:512][724]LogClass: Function OnOverlapsBegin is new.
+[2019.11.18-04.30.58:512][724]LogClass: Function OnOverlapsEnd is new.
+[2019.11.18-04.30.58:542][724]LogHotReload: Re-instancing MyCharacter after hot-reload.
+[2019.11.18-04.30.59:174][724]LogContentBrowser: Native class hierarchy updated for 'ActorsAndComponents' in 0.0004 seconds. Added 9 classes and 2 folders.
+[2019.11.18-04.30.59:182][724]Display: HotReload successful (6 functions remapped  0 scriptstructs remapped)
+[2019.11.18-04.30.59:356][724]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2019.11.18-04.30.59:378][724]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2873 classes and 684 folders.
+[2019.11.18-04.30.59:378][724]Display: HotReload took 12.0s.
+[2019.11.18-04.31.01:445][830]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.18-04.31.01:479][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.31.01:480][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.18-04.31.01:480][830]PIE: New page: PIE session: MyLevel (Nov 17, 2019, 6:31:01 PM)
+[2019.11.18-04.31.01:480][830]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-04.31.01:485][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004169s)
+[2019.11.18-04.31.01:487][830]LogAIModule: Creating AISystem for world MyLevel
+[2019.11.18-04.31.01:487][830]LogPlayLevel: PIE: World Init took: (0.002346s)
+[2019.11.18-04.31.01:487][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MyLevel.MyLevel to /Game/Levels/UEDPIE_0_MyLevel.MyLevel (0.007100s)
+[2019.11.18-04.31.01:612][830]LogUObjectHash: Compacting FUObjectHashTables data took   9.03ms
+[2019.11.18-04.31.01:621][830]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.18-04.31.01:630][830]LogInit: FAudioDevice initialized.
+[2019.11.18-04.31.01:640][830]LogLoad: Game class is 'BP_UE4CookbookGameModeBase_C'
+[2019.11.18-04.31.01:641][830]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MyLevel.MyLevel up for play (max tick rate 60) at 2019.11.17-23.31.01
+[2019.11.18-04.31.01:642][830]LogWorld: Bringing up level for play took: 0.000968
+[2019.11.18-04.31.01:642][830]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.11.18-04.31.01:644][830]LogActor: Warning: MyFirstActor /Game/Levels/UEDPIE_0_MyLevel.MyLevel:PersistentLevel.MyFirstActor_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.11.18-04.31.01:645][830]LogBlueprintUserMessages: [MyLevel_C_3] An instance of AWarrior: Kenny
+[2019.11.18-04.31.01:645][830]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MyLevel 0.718
+[2019.11.18-04.31.01:645][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.31.03:731][954]LogTemp: Warning: Overlaps character began!
+[2019.11.18-04.31.04:830][ 20]LogTemp: Warning: Overlaps character ended.
+[2019.11.18-04.31.06:447][117]LogTemp: Warning: Overlaps character began!
+[2019.11.18-04.31.07:613][187]LogTemp: Warning: Overlaps character ended.
+[2019.11.18-04.31.08:664][250]LogTemp: Warning: Overlaps character began!
+[2019.11.18-04.31.09:548][303]LogTemp: Warning: Overlaps character ended.
+[2019.11.18-04.31.11:481][419]LogTemp: Warning: Overlaps character began!
+[2019.11.18-04.31.12:730][494]LogTemp: Warning: Overlaps character ended.
+[2019.11.18-04.31.14:980][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-04.31.15:047][633]LogTemp: Warning: UI Button Clicked
+[2019.11.18-04.31.15:713][673]LogTemp: Warning: UI Button Clicked
+[2019.11.18-04.31.17:463][778]LogTemp: Warning: UI Button Clicked
+[2019.11.18-04.31.18:480][839]LogTemp: Warning: Overlaps character began!
+[2019.11.18-04.31.19:014][871]LogTemp: Warning: Overlaps character ended.
+[2019.11.18-04.31.19:131][878]LogTemp: Warning: UI Button Clicked
+[2019.11.18-04.31.19:348][891]LogTemp: Warning: UI Button Clicked
+[2019.11.18-04.31.19:964][928]LogTemp: Warning: UI Button Clicked
+[2019.11.18-04.31.22:031][ 52]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.31.22:032][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-04.31.22:032][ 52]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MyLevel
+[2019.11.18-04.31.22:033][ 52]LogWorld: UWorld::CleanupWorld for MyLevel, bSessionEnded=true, bCleanupResources=true
+[2019.11.18-04.31.22:038][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.18-04.31.22:038][ 52]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MyLevel.MyLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel' with GeneratedClass '/Game/Levels/MyLevel.MyLevel_C' with ClassGeneratedBy '/Game/Levels/MyLevel.MyLevel:PersistentLevel.MyLevel'
+[2019.11.18-04.31.22:104][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.18-04.31.22:129][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2019.11.18-04.31.22:146][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.11.18-04.31.24:186][175]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.11.18-04.31.24:224][175]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.18-04.36.28:691][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.18-04.38.15:438][487]BlueprintLog: New page: Compile BP_MyCharacter
+[2019.11.18-04.38.15:788][487]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2019.11.18-04.38.16:048][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_MyCharacter" FILE="../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Blueprints/BP_MyCharacter.uasset" SILENT=true
+[2019.11.18-04.38.16:056][500]LogSavePackage: Moving '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Saved/BP_MyCharacterE1634166435675E08BB5CAA550554DFB.tmp' to '../../../../../UnrealGames/UE4_C++ScriptingBook/ActorsAndComponents/Content/Blueprints/BP_MyCharacter.uasset'

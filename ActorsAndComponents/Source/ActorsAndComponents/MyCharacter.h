@@ -29,6 +29,22 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+	virtual void PostInitializeComponents() override;
+
+	UFUNCTION(BlueprintNativeEvent, Category = Collision)
+	void OnOverlapsBegin(UPrimitiveComponent* Comp,
+			AActor* OtherActor,
+			UPrimitiveComponent* OtherComp,
+			int32 OtherBodyIndex,
+			bool bFromSweep,
+			const FHitResult& SweepResult);
+
+	UFUNCTION(BlueprintNativeEvent, Category = Collision)
+	void OnOverlapsEnd(UPrimitiveComponent* Comp,
+			AActor* OtherActor,
+			UPrimitiveComponent* OtherComp,
+			int32 OtherBodyIndex);
+
 	// Movement functions
 	void Forward(float amount);
 	void Back(float amount);

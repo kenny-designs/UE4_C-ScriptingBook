@@ -630,6 +630,9 @@
   <ItemGroup>
     <ClCompile Include="..\..\Source\ActorsAndComponents\ActorSpawnerComponent.cpp" />
     <ClCompile Include="..\..\Source\ActorsAndComponents\HierarchyActor.cpp" />
+    <ClCompile Include="..\..\Source\ActorsAndComponents\InventoryActor.cpp" />
+    <ClCompile Include="..\..\Source\ActorsAndComponents\InventoryCharacter.cpp" />
+    <ClCompile Include="..\..\Source\ActorsAndComponents\InventoryComponent.cpp" />
     <ClCompile Include="..\..\Source\ActorsAndComponents\MyCharacter.cpp" />
     <ClCompile Include="..\..\Source\ActorsAndComponents\MyGameStateBase.cpp" />
     <ClCompile Include="..\..\Source\ActorsAndComponents\RandomMovementComponent.cpp" />
@@ -637,6 +640,9 @@
     <ClCompile Include="..\..\Source\ActorsAndComponents\Warior.cpp" />
     <ClInclude Include="..\..\Source\ActorsAndComponents\ActorSpawnerComponent.h" />
     <ClInclude Include="..\..\Source\ActorsAndComponents\HierarchyActor.h" />
+    <ClInclude Include="..\..\Source\ActorsAndComponents\InventoryActor.h" />
+    <ClInclude Include="..\..\Source\ActorsAndComponents\InventoryCharacter.h" />
+    <ClInclude Include="..\..\Source\ActorsAndComponents\InventoryComponent.h" />
     <ClInclude Include="..\..\Source\ActorsAndComponents\MyCharacter.h" />
     <ClInclude Include="..\..\Source\ActorsAndComponents\MyGameStateBase.h" />
     <ClInclude Include="..\..\Source\ActorsAndComponents\RandomMovementComponent.h" />

@@ -71,7 +71,7 @@ public: \
 
 #define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AUE4CookbookGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	NO_API AUE4CookbookGameModeBase(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUE4CookbookGameModeBase) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUE4CookbookGameModeBase); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUE4CookbookGameModeBase); \
@@ -83,8 +83,6 @@ public:
 
 
 #define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_ENHANCED_CONSTRUCTORS \
-	/** Standard constructor, called after all reflected properties have been initialized */ \
-	NO_API AUE4CookbookGameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AUE4CookbookGameModeBase(AUE4CookbookGameModeBase&&); \
@@ -92,7 +90,7 @@ private: \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AUE4CookbookGameModeBase); \
 DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUE4CookbookGameModeBase); \
-	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AUE4CookbookGameModeBase)
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AUE4CookbookGameModeBase)
 
 
 #define ActorsAndComponents_Source_ActorsAndComponents_UE4CookbookGameModeBase_h_16_PRIVATE_PROPERTY_OFFSET

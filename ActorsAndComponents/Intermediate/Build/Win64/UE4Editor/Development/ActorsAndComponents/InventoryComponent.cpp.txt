@@ -1,0 +1,7 @@
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Development\ActorsAndComponents\Definitions.ActorsAndComponents.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\InventoryComponent.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\InventoryActor.h
+C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\InventoryActor.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\InventoryComponent.generated.h

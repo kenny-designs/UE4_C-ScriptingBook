@@ -7,6 +7,18 @@ C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Eng
 C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\MyFirstActor.h
 C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\MyFirstActor.generated.h
 C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\UE4CookbookGameModeBase.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\InventoryCharacter.h
+C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\InventoryComponent.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Source\ActorsAndComponents\InventoryActor.h
+C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/StaticMeshActor.h
+C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\StaticMeshActor.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\InventoryActor.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\InventoryComponent.generated.h
+C:\UnrealGames\UE4_C++ScriptingBook\ActorsAndComponents\Intermediate\Build\Win64\UE4Editor\Inc\ActorsAndComponents\InventoryCharacter.generated.h
 C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
 C:\Program Files (x86)\UE_4.23\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
 C:\Program Files (x86)\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h

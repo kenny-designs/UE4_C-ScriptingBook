@@ -3,7 +3,13 @@
 
 #include "UE4CookbookGameModeBase.h"
 #include "MyFirstActor.h"
+#include "InventoryCharacter.h"
 #include "Blueprint/UserWidget.h"
+
+AUE4CookbookGameModeBase::AUE4CookbookGameModeBase()
+{
+	DefaultPawnClass = AInventoryActor::StaticClass();
+}
 
 void AUE4CookbookGameModeBase::BeginPlay()
 {
@@ -22,6 +28,8 @@ void AUE4CookbookGameModeBase::BeginPlay()
 	GetWorldTimerManager().SetTimer(Timer, this, &AUE4CookbookGameModeBase::DestroyActorFunction, 10);
 
 	// Add the widget to the screen
+	// TODO: disabled widget
+	/*
 	if (Widget)
 	{
 		UUserWidget* Menu = CreateWidget<UUserWidget>(GetWorld(), Widget);
@@ -32,6 +40,7 @@ void AUE4CookbookGameModeBase::BeginPlay()
 			GetWorld()->GetFirstPlayerController()->bShowMouseCursor = true;
 		}
 	}
+	*/
 }
 
 void AUE4CookbookGameModeBase::DestroyActorFunction()

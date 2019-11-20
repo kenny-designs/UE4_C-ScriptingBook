@@ -16,6 +16,8 @@ class ACTORSANDCOMPONENTS_API AUE4CookbookGameModeBase : public AGameModeBase
 	GENERATED_BODY()
 
 public:
+	AUE4CookbookGameModeBase();
+
 	virtual void BeginPlay() override;
 
 	UFUNCTION(BlueprintCallable, Category = UIFuncs)
